@@ -1,6 +1,4 @@
-import cc.mallet.pipe.Pipe;
-
-import java.util.ArrayList;
+package hmm;
 
 public class Main {
     public static void main(String arg[]) {
