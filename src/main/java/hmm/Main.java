@@ -29,7 +29,7 @@ public class Main {
 
         InstanceList trainingInstances;
         trainingInstances = new InstanceList(pipe);
-        String trainingFilename = "00.txt";
+        String trainingFilename = "train.txt";
         try {
             trainingInstances.addThruPipe(new LineGroupIterator(new BufferedReader(new InputStreamReader(new FileInputStream(trainingFilename), "UTF-8")), Pattern.compile("^\\s*$"), true));
             HMM hmm = new HMM(pipe, null);

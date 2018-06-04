@@ -10,5 +10,15 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="mallet" level="project" />
     <orderEntry type="library" name="mallet-deps" level="project" />
+    <orderEntry type="library" name="maxent-2.5.2" level="project" />
+    <orderEntry type="library" name="vn.hus.nlp.utils-1.0.0" level="project" />
+    <orderEntry type="library" name="vn.hus.nlp.tokenizer-4.1.1" level="project" />
+    <orderEntry type="library" name="vn.hus.nlp.sd-2.0.0" level="project" />
+    <orderEntry type="library" name="vn.hus.nlp.fsm-1.0.0" level="project" />
+    <orderEntry type="library" name="trove" level="project" />
+    <orderEntry type="library" name="opennlp-tools-1.4.3" level="project" />
+    <orderEntry type="library" name="JVnTagger" level="project" />
+    <orderEntry type="library" name="commons-cli-1.2" level="project" />
+    <orderEntry type="library" name="junit" level="project" />
   </component>
 </module>
