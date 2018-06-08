@@ -1,25 +1,18 @@
 package tagger;
 
-import jvntagger.CRFTagger;
-import vn.hus.nlp.sd.SentenceDetector;
-import vn.hus.nlp.tokenizer.VietTokenizer;
-
 import java.io.*;
 
 public class Main {
     public static void main(String[] args) {
-        String sentDetectionFile = "models\\sentDetection\\VietnameseSD.bin.gz";
-        SentenceDetector sd = null;
-        try {
-            sd = new SentenceDetector(sentDetectionFile);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
         String docFile = "trainDoc.txt";
+        String trainData = "train.txt";
         BufferedReader br = null;
+        BufferedWriter bw = null;
         try {
             br = new BufferedReader(new FileReader(docFile));
+            bw = new BufferedWriter(new FileWriter(trainData,
+                true));
+
             StringBuffer stringBuffer = new StringBuffer();
 
             String line = "";
@@ -27,38 +20,38 @@ public class Main {
                 stringBuffer.append(line);
             }
             String doc = stringBuffer.toString();
+            String[] tokens = doc.split(" ");
 
-            String[] sentences = sd.sentDetect(doc);
-
-            VietTokenizer tk = new VietTokenizer();
-            CRFTagger crfTagger = new CRFTagger("model\\crfs");
-
-            String trainData = "train.txt";
-            BufferedWriter bw = new BufferedWriter(new FileWriter(trainData,
-                true));
-            for (String s : sentences) {
-                String tokens = tk.segment(s);
-//                System.out.println(s);
-                String[] pairs = crfTagger.tagging(tokens).split(" ");
-
-                for (String pair : pairs) {
-                    String[] elems = pair.split("/");
-                    String word = elems[0];
-                    String tag = elems[1];
-                    bw.append(word);
-                    bw.append(" ");
-                    bw.append(tag);
-                    bw.append("\n");
-                }
-                bw.append("\n");
+            for (String token : tokens) {
+                bw.write(token);
+                bw.write(" ");
+                bw.write("O");
+                bw.write("\n");
             }
-            bw.close();
-            br.close();
+            bw.write("\n");
 
         } catch (FileNotFoundException e) {
             e.printStackTrace();
+
         } catch (IOException e) {
             e.printStackTrace();
+
+        } finally {
+            if (br != null) {
+                try {
+                    br.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+
+            if (bw != null) {
+                try {
+                    bw.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
         }
     }
 }
