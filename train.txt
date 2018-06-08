@@ -13,7 +13,7 @@ chỉ O
 với O
 3 O
 triệu O
-đồng
+đồng O
 
 Với O
 hai O
@@ -365,7 +365,7 @@ hút O
 khách O
 du O
 lịch O
-đấy
+đấy O
 
 Và O
 để O
@@ -403,7 +403,7 @@ khi O
 thành O
 phố O
 trẻ O
-này
+này O
 ! !
 
 Asia O
@@ -526,7 +526,7 @@ nhất O
 ở IN
 Đà B-LOC
 Nẵng C-LOC
-đấy
+đấy O
 ! !
 
 Bãi O
@@ -619,7 +619,7 @@ Nẵng C-LOC
 vào O
 buổi O
 tối O
-đấy
+đấy O
 ! !
 
 Ở IN
