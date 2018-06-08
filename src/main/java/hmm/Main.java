@@ -8,7 +8,7 @@ import java.io.UnsupportedEncodingException;
 public class Main {
     public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException {
         HMM hmm = Helper.train("train.txt");
-        String st = "Ăn chơi ở Đà Nẵng";
+        String st = "Cảnh đẹp ở Đà Nẵng";
         Helper.predict(hmm, st);
     }
 }
