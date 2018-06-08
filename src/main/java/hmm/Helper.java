@@ -19,6 +19,18 @@ import java.util.regex.Pattern;
 
 public class Helper {
 
+    public static String normalize(String input) {
+        String output = input;
+        output = output.replace("'", " ' ");
+        output = output.replace("\"", " \" ");
+        output = output.replace(",", " , ");
+        output = output.replace(".", " . ");
+        output = output.replace("-", " - ");
+        output = output.replace("!", " ! ");
+
+        return output;
+    }
+
     public static ArrayList<String> extractTokens(Alphabet words, String
         input) {
         ArrayList<String> tokens = new ArrayList<>();
@@ -58,7 +70,7 @@ public class Helper {
         return hmm;
     }
 
-    public static String predict(HMM hmm, String sentence) {
+    public static ArrayList<String> predict(HMM hmm, String sentence) {
         Alphabet words = hmm.getInputPipe().getAlphabet();
         ArrayList<String> tokens = extractTokens(words, sentence);
 
@@ -73,22 +85,32 @@ public class Helper {
         ArrayList<String> tags = new ArrayList<>(Arrays.asList(rs.toString()
             .trim().split(" ")));
 
+        ArrayList<String> locs = new ArrayList<>();
+
         int bLocIndex = tags.indexOf("B-LOC");
         if (bLocIndex < 0) {
-            return "";
+            return locs;
         }
 
         int cLocIndex = tags.lastIndexOf("C-LOC");
-        if (cLocIndex < 0) {
-            return tokens.get(bLocIndex);
-        }
 
-        StringBuffer temp = new StringBuffer();
         for (int i = bLocIndex; i <= cLocIndex; i++) {
-            temp.append(tokens.get(i));
-            temp.append(" ");
+            StringBuffer temp = new StringBuffer();
+            if (tags.get(i).equals("B-LOC")) {
+                temp.append(tokens.get(i));
+                temp.append(" ");
+                for (int j = i + 1; j <= cLocIndex; j++) {
+                    if (!tags.get(j).equals("C-LOC")) {
+                        break;
+                    } else {
+                        temp.append(tokens.get(j));
+                        temp.append(" ");
+                    }
+                }
+                locs.add(temp.toString().trim());
+            }
         }
 
-        return temp.toString().trim();
+        return locs;
     }
 }
