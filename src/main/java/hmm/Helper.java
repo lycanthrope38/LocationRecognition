@@ -14,9 +14,22 @@ import cc.mallet.types.Sequence;
 
 import java.io.*;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.regex.Pattern;
 
 public class Helper {
+
+    public static ArrayList<String> extractTokens(Alphabet words, String
+        input) {
+        ArrayList<String> tokens = new ArrayList<>();
+        for (String st : input.split(" ")) {
+            if (words.contains(st)) {
+                tokens.add(st);
+            }
+        }
+
+        return tokens;
+    }
 
     public static HMM train(String trainingFilename) throws
         FileNotFoundException,
@@ -45,16 +58,37 @@ public class Helper {
         return hmm;
     }
 
-    public static void predict(HMM hmm, String sentence) {
+    public static String predict(HMM hmm, String sentence) {
         Alphabet words = hmm.getInputPipe().getAlphabet();
-        String[] ws = sentence.split(" ");
-        int[] fs = new int[ws.length];
-        for (int i = 0; i < ws.length; i++) {
-            fs[i] = words.lookupIndex(ws[i]);
+        ArrayList<String> tokens = extractTokens(words, sentence);
+
+        int[] fs = new int[tokens.size()];
+        for (int i = 0; i < fs.length; i++) {
+            fs[i] = words.lookupIndex(tokens.get(i));
         }
 
         FeatureSequence sp = new FeatureSequence(words, fs);
         Sequence<String> rs = hmm.transduce(sp);
-        System.out.println(rs.toString());
+
+        ArrayList<String> tags = new ArrayList<>(Arrays.asList(rs.toString()
+            .trim().split(" ")));
+
+        int bLocIndex = tags.indexOf("B-LOC");
+        if (bLocIndex < 0) {
+            return "";
+        }
+
+        int cLocIndex = tags.lastIndexOf("C-LOC");
+        if (cLocIndex < 0) {
+            return tokens.get(bLocIndex);
+        }
+
+        StringBuffer temp = new StringBuffer();
+        for (int i = bLocIndex; i <= cLocIndex; i++) {
+            temp.append(tokens.get(i));
+            temp.append(" ");
+        }
+
+        return temp.toString().trim();
     }
 }

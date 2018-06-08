@@ -9,6 +9,7 @@ public class Main {
     public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException {
         HMM hmm = Helper.train("train.txt");
         String st = "Cảnh đẹp ở Đà Nẵng";
-        Helper.predict(hmm, st);
+        String result = Helper.predict(hmm, st);
+        System.out.println(result);
     }
 }
