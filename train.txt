@@ -71,7 +71,8 @@ những O
 lựa O
 chọn O
 phổ O
-biến, O
+biến O
+, ,
 dễ O
 đi O
 dễ O
@@ -126,7 +127,7 @@ phòng O
 tập O
 thể O
 ) )
-ở IN
+ở O
 trung O
 tâm O
 Đà B-LOC
@@ -221,7 +222,9 @@ kiếm O
 nhiều O
 nhất O
 Việt B-LOC
-Nam. C-LOC
+Nam C-LOC
+. .
+
 Với O
 nhiều O
 danh O
@@ -251,7 +254,8 @@ Trà C-LOC
 , ,
 Ngũ B-LOC
 Hành C-LOC
-Sơn, C-LOC
+Sơn C-LOC
+, ,
 đèo O
 Hải B-LOC
 Vân C-LOC
@@ -270,7 +274,8 @@ có O
 chuyến O
 đi O
 thú O
-vị, O
+vị O
+, ,
 tiết O
 kiệm O
 bằng O
@@ -279,7 +284,7 @@ cách O
 phòng O
 khách O
 sạn O
-tại O
+tại IN
 Đà B-LOC
 Nẵng C-LOC
 ngay O
@@ -506,7 +511,7 @@ bạn O
 nên O
 thử O
 khi O
-đến IN
+đến O
 đây O
 . .
 
@@ -562,7 +567,7 @@ khác O
 Nẵng C-LOC
 sẽ O
 mang O
-đến IN
+đến O
 cho O
 bạn O
 những O
@@ -583,7 +588,7 @@ là O
 suối O
 khoáng O
 nóng O
-trên O
+trên IN
 Núi B-LOC
 Thần C-LOC
 Tài C-LOC
