@@ -63,7 +63,7 @@ public class Helper {
 
         HMM hmm = new HMM(pipe, null);
         hmm.addStatesForLabelsConnectedAsIn(trainingInstances);
-//        hmm.addFullyConnectedStatesForBiLabels();
+//        hmm.addStatesForBiLabelsConnectedAsIn(trainingInstances);
         HMMTrainerByLikelihood trainer = new HMMTrainerByLikelihood(hmm);
         trainer.train(trainingInstances, 10);
 
@@ -87,27 +87,33 @@ public class Helper {
 
         ArrayList<String> locs = new ArrayList<>();
 
-        int bLocIndex = tags.indexOf("B-LOC");
-        if (bLocIndex < 0) {
+        int firstBLOC = tags.indexOf("B-LOC");
+        if (firstBLOC < 0) {
             return locs;
         }
 
-        int cLocIndex = tags.lastIndexOf("C-LOC");
+        int lastCLOC = tags.lastIndexOf("C-LOC");
 
-        for (int i = bLocIndex; i <= cLocIndex; i++) {
+        int index = firstBLOC;
+        while (index <= lastCLOC) {
             StringBuffer temp = new StringBuffer();
-            if (tags.get(i).equals("B-LOC")) {
-                temp.append(tokens.get(i));
+            if (tags.get(index).equals("B-LOC")) {
+                temp.append(tokens.get(index));
                 temp.append(" ");
-                for (int j = i + 1; j <= cLocIndex; j++) {
+
+                int j = index + 1;
+                while (j <= lastCLOC) {
                     if (!tags.get(j).equals("C-LOC")) {
                         break;
-                    } else {
-                        temp.append(tokens.get(j));
-                        temp.append(" ");
                     }
+                    temp.append(tokens.get(j));
+                    temp.append(" ");
+                    j++;
                 }
                 locs.add(temp.toString().trim());
+                index = j;
+            } else {
+                index++;
             }
         }
 
