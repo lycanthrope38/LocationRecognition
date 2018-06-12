@@ -18,19 +18,6 @@ import java.util.Arrays;
 import java.util.regex.Pattern;
 
 public class Helper {
-
-    public static String normalize(String input) {
-        String output = input;
-        output = output.replace("'", " ' ");
-        output = output.replace("\"", " \" ");
-        output = output.replace(",", " , ");
-        output = output.replace(".", " . ");
-        output = output.replace("-", " - ");
-        output = output.replace("!", " ! ");
-
-        return output;
-    }
-
     public static ArrayList<String> extractTokens(Alphabet words, String
         input) {
         ArrayList<String> tokens = new ArrayList<>();

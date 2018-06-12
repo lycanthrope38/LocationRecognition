@@ -1,6 +1,7 @@
 package hmm;
 
 import cc.mallet.fst.HMM;
+import helper.StringUtil;
 
 import java.io.FileNotFoundException;
 import java.io.UnsupportedEncodingException;
@@ -11,7 +12,7 @@ public class Main {
         HMM hmm = Helper.train("train.txt");
         String st = "Đà Nẵng là địa điểm du lịch nổi tiếng ở Việt Nam";
 
-        ArrayList<String> result = Helper.predict(hmm, Helper.normalize(st));
+        ArrayList<String> result = Helper.predict(hmm, StringUtil.normalize(st));
         System.out.println(result);
     }
 }
