@@ -11,6 +11,7 @@ import cc.mallet.types.Alphabet;
 import cc.mallet.types.FeatureSequence;
 import cc.mallet.types.InstanceList;
 import cc.mallet.types.Sequence;
+import helper.StringUtil;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -59,7 +60,8 @@ public class Helper {
 
     public static ArrayList<String> predict(HMM hmm, String sentence) {
         Alphabet words = hmm.getInputPipe().getAlphabet();
-        ArrayList<String> tokens = extractTokens(words, sentence);
+        ArrayList<String> tokens = extractTokens(words, StringUtil.normalize
+            (sentence));
 
         int[] fs = new int[tokens.size()];
         for (int i = 0; i < fs.length; i++) {

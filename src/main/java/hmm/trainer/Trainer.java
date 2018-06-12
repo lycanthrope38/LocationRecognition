@@ -55,6 +55,7 @@ public class Trainer {
             fileInputStream = new FileInputStream("hmm.ser");
             objectInputStream = new ObjectInputStream(fileInputStream);
             hmm = (HMM) objectInputStream.readObject();
+            System.out.println("Loaded HMM object successfully.");
         } catch (IOException e) {
             e.printStackTrace();
         } catch (ClassNotFoundException e) {
