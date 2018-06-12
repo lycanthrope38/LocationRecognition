@@ -7,11 +7,11 @@ import java.io.*;
 
 public class Trainer {
     // Serialize HMM object to file
-    public static void train() {
+    private static void trainAndStoreHMM() {
         FileOutputStream  fileOutputStream = null;
         ObjectOutputStream objectOutputStream = null;
         try {
-            HMM hmm = Helper.train("train.txt");
+            HMM hmm = Helper.train("trainAndStoreHMM.txt");
             fileOutputStream = new FileOutputStream("hmm.ser");
             objectOutputStream = new ObjectOutputStream
                 (fileOutputStream);
@@ -44,7 +44,43 @@ public class Trainer {
         }
     }
 
+    // De-serialize HMM object from file
+    public static HMM loadHMM() {
+        FileInputStream fileInputStream = null;
+        ObjectInputStream objectInputStream = null;
+        HMM hmm = null;
+
+        try {
+            // Load HMM object from file
+            fileInputStream = new FileInputStream("hmm.ser");
+            objectInputStream = new ObjectInputStream(fileInputStream);
+            hmm = (HMM) objectInputStream.readObject();
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        } finally {
+            if (fileInputStream != null) {
+                try {
+                    fileInputStream.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+
+            if (objectInputStream != null) {
+                try {
+                    objectInputStream.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+        }
+
+        return hmm;
+    }
+
     public static void main(String[] args) {
-        train();
+        trainAndStoreHMM();
     }
 }
