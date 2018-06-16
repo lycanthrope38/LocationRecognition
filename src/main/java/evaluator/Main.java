@@ -53,6 +53,8 @@ public class Main {
 
         HMM hmm = Trainer.loadHMM();
         System.out.println("=======");
+        double averagePrecision = 0.0;
+        double averageRecall = 0.0;
 
         for (int i = 0; i < sentences.size(); i++) {
             String st = sentences.get(i);
@@ -73,6 +75,20 @@ public class Main {
             System.out.printf("=== Precision = %f - Recall = %f === %n",
                 precision,
                 recall);
+
+            averagePrecision += precision;
+            averageRecall += recall;
         }
+
+        averagePrecision = averagePrecision / sentences.size();
+        averageRecall = averageRecall / sentences.size();
+
+        double f1Score = 2 * averagePrecision * averageRecall /
+            (averagePrecision + averageRecall);
+
+        System.out.println("==========================");
+        System.out.printf("Average precision = %f, Average recall = %f, F1 " +
+            "score = %f %n", averagePrecision, averageRecall, f1Score);
+        System.out.println("==========================");
     }
 }

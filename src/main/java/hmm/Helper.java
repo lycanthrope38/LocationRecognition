@@ -99,7 +99,8 @@ public class Helper {
                     temp.append(" ");
                     j++;
                 }
-                locs.add(temp.toString().trim());
+                String loc = temp.toString().trim();
+                locs.add(StringUtil.denormalize(loc));
                 index = j;
             } else {
                 index++;

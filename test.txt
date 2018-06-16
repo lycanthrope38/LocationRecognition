@@ -10,3 +10,18 @@
 -> Việt Nam
 -> Đà Nẵng
 
+Đà Nẵng được xem là một thành phố đáng sống nhất Việt Nam.
+-> Đà Nẵng
+-> Việt Nam
+
+Một số địa danh nổi tiếng ở Đà Nẵng là núi Bà Nà, bãi biển Mỹ Khê và bán đảo Sơn Trà.
+-> Đà Nẵng
+-> Bà Nà
+-> Mỹ Khê
+-> Sơn Trà
+
+Đến Đà Nẵng du khách có thể đến núi Bà Nà hay bãi biển Mỹ Khê.
+-> Đà Nẵng
+-> Bà Nà
+-> Mỹ Khê
+

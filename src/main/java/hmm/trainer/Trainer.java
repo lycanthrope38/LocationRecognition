@@ -11,7 +11,7 @@ public class Trainer {
         FileOutputStream  fileOutputStream = null;
         ObjectOutputStream objectOutputStream = null;
         try {
-            HMM hmm = Helper.train("trainAndStoreHMM.txt");
+            HMM hmm = Helper.train("train.txt");
             fileOutputStream = new FileOutputStream("hmm.ser");
             objectOutputStream = new ObjectOutputStream
                 (fileOutputStream);

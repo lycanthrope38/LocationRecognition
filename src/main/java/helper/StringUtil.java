@@ -16,6 +16,7 @@ public class StringUtil {
     public static String denormalize(String input) {
         String output = input;
         output = output.replace(" ,", ",");
+        output = output.replace(" .", ".");
 
         return output;
     }

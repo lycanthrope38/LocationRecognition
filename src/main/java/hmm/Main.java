@@ -1,7 +1,6 @@
 package hmm;
 
 import cc.mallet.fst.HMM;
-import helper.StringUtil;
 import hmm.trainer.Trainer;
 
 import java.util.ArrayList;
@@ -15,9 +14,9 @@ public class Main {
             System.exit(1);
         }
 
-        String st = "Đà Nẵng là địa điểm du lịch nổi tiếng ở Việt Nam";
+        String st = "Đến Đà Nẵng, du khách có thể tham quan các địa danh nổi tiếng tại đây như núi Bà Nà, bãi biển Mỹ Khê, Ngũ Hành Sơn...";
 
-        ArrayList<String> result = Helper.predict(hmm, StringUtil.normalize(st));
+        ArrayList<String> result = Helper.predict(hmm, st);
         System.out.println(result);
     }
 }
