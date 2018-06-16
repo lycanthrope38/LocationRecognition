@@ -1,4 +1,4 @@
-﻿Với O
+Với O
 nỗ O
 lực O
 vươn O
@@ -77,6 +77,7 @@ ninh O
 quốc O
 phòng O
 . .
+
 Những O
 năm O
 gần O
@@ -154,6 +155,7 @@ là O
 cầu NN
 Rồng B-LOC
 . .
+
 Đây O
 là O
 công O
@@ -171,6 +173,7 @@ của O
 Đà B-LOC
 Nẵng C-LOC
 . .
+
 Cứ O
 đến O
 cuối O
@@ -201,59 +204,7 @@ rất O
 đẹp O
 mắt O
 . .
-Ngay O
-gần O
-đó O
-là O
-bức O
-tượng O
-cá O
-chép O
-hóa O
-rồng O
-liên O
-tục O
-đổi O
-màu O
-và O
-phun O
-nước O
-độc O
-đáo O
-không O
-kém O
-. .
 
-Để O
-có O
-được O
-một O
-thành O
-phố O
-trẻ O
-, ,
-đẹp O
-và O
-hiện O
-đại O
-bên O
-dòng O
-sông O
-Hàn O
-như O
-ngày O
-nay O
-, ,
-không O
-ít O
-các O
-anh O
-hùng O
-đã O
-phải O
-ngã O
-xuống O
-. .
 Đêm O
 27/7/2017 O
 , ,
@@ -280,38 +231,7 @@ hùng O
 liệt O
 sĩ O
 . .
-Ánh O
-nến O
-hòa O
-cùng O
-ánh O
-đèn O
-thành O
-phố O
-tạo O
-thành O
-một O
-dòng O
-sông O
-ánh O
-sáng O
-, ,
-đẹp O
-như O
-một O
-bản O
-nhạc O
-. .
 
-Chiều O
-hoàng O
-hôn O
-dần O
-buông O
-xuống O
-thành O
-phố O
-. .
 Trái O
 ngược O
 với O
@@ -370,6 +290,7 @@ và O
 Sơn B-LOC
 Trà C-LOC
 . .
+
 Trung O
 tâm O
 du O
@@ -393,6 +314,7 @@ của O
 thành O
 phố O
 . .
+
 Hệ O
 thống O
 cáp O
@@ -469,6 +391,7 @@ núi O
 hoang O
 sơ O
 . .
+
 Ngoài O
 bán O
 đảo NN
@@ -605,70 +528,6 @@ biển NN
 Thọ B-LOC
 Quang C-LOC
 . .
-Tiếng O
-hò O
-reo O
-kéo O
-lưới O
-của O
-ngư O
-dân O
-vang O
-vọng O
-tạo O
-bầu O
-không O
-khí O
-hứng O
-khởi O
-, ,
-mang O
-lại O
-cảm O
-giác O
-yên O
-bình O
-đến O
-lạ O
-. .
-
-Người O
-ngư O
-dân O
-gắn O
-cuộc O
-sống O
-của O
-mình O
-với O
-biển O
-, ,
-quen O
-ăn O
-sóng O
-nói O
-gió O
-nhưng O
-lại O
-có O
-tấm O
-lòng O
-chân O
-thật O
-, ,
-sống O
-chan O
-hòa O
-, ,
-gần O
-gũi O
-với O
-thiên O
-nhiên O
-và O
-con O
-người O
-. .
 
 New O
 York O
@@ -707,36 +566,6 @@ trải O
 dài O
 tuyệt O
 đẹp O
-. .
-Nhưng O
-thật O
-ra O
-, ,
-thành O
-phố O
-này O
-còn O
-níu O
-chân O
-người O
-bởi O
-hình O
-ảnh O
-hiện O
-đại O
-, ,
-văn O
-minh O
-, ,
-và O
-luôn O
-có O
-cái O
-mới O
-, ,
-luôn O
-chuyển O
-mình O
 . .
 
 Đến O
@@ -804,6 +633,7 @@ lúc O
 mọi O
 nơi O
 . .
+
 Dễ O
 hiểu O
 bởi O
@@ -823,6 +653,7 @@ túi O
 du O
 khách O
 . .
+
 Đối O
 với O
 họ O
@@ -949,6 +780,7 @@ lòng O
 du O
 khách O
 . .
+
 Cứ O
 sau O
 một O
@@ -1004,6 +836,7 @@ hiện O
 đại O
 hơn O
 . .
+
 Những O
 dịch O
 vụ O
@@ -1030,6 +863,7 @@ minh O
 thân O
 thiện O
 . .
+
 Những O
 nhà O
 vệ O
@@ -1057,6 +891,7 @@ thư O
 nhân O
 đạo O
 ... ...
+
 Hay O
 thậm O
 chí O
@@ -1121,6 +956,7 @@ sốt O
 nào O
 đó O
 . .
+
 Đấy O
 là O
 đang O
@@ -1147,6 +983,7 @@ ta O
 nhớ O
 về O
 . .
+
 Năm O
 nào O
 đó O
@@ -1167,6 +1004,7 @@ hậu O
 dịu O
 mát O
 . .
+
 Rồi O
 tới O
 chiếc O
@@ -1181,6 +1019,7 @@ nước O
 phun O
 lửa O
 . .
+
 Rồi O
 tới O
 vòng O
@@ -1278,6 +1117,7 @@ bờ O
 sông NN
 Hàn B-LOC
 . .
+
 Cây O
 cầu O
 trái O
@@ -1307,6 +1147,7 @@ những O
 uyên O
 ương O
 . .
+
 Cầu O
 tình O
 yêu O
@@ -1367,6 +1208,7 @@ kỳ O
 nổi O
 tiếng O
 . .
+
 Họ O
 có O
 thể O
@@ -1406,6 +1248,7 @@ vùng O
 cố O
 đô O
 . .
+
 Từ IN
 Đà B-LOC
 Nẵng C-LOC
@@ -1428,6 +1271,7 @@ máy O
 cũng O
 được O
 . .
+
 Với O
 những O
 du O
@@ -1546,6 +1390,7 @@ kì O
 phấn O
 khích O
 . .
+
 Các O
 khu O
 resort O
@@ -1573,6 +1418,7 @@ phần O
 nên O
 thơ O
 . .
+
 Bạn O
 nên O
 thuê O
@@ -1672,6 +1518,7 @@ phố O
 Đà B-LOC
 Nẵng C-LOC
 . .
+
 Với O
 kiến O
 trúc O
@@ -1729,6 +1576,7 @@ của O
 miền NN
 Trung B-LOC
 . .
+
 Chỉ O
 cách O
 Đà B-LOC
@@ -1767,6 +1615,7 @@ như O
 sương O
 mờ O
 . .
+
 Đến O
 đây O
 , ,
@@ -1819,6 +1668,7 @@ người O
 nơi O
 đây O
 . .
+
 Khi O
 đặt O
 chân O
@@ -1842,6 +1692,7 @@ những O
 nụ O
 cười O
 . .
+
 Bất O
 kể O
 bạn O
@@ -1938,6 +1789,7 @@ trong O
 bao O
 lâu O
 ... ...
+
 Nhìn O
 chung O
 , ,
@@ -1975,6 +1827,7 @@ dân O
 nơi O
 đây O
 . .
+
 ( (
 Thậm O
 chí O
@@ -2058,6 +1911,7 @@ cho O
 bây O
 giờ O
 . .
+
 Tình O
 yêu O
 và O
@@ -2115,7 +1969,7 @@ sinh O
 , ,
 sinh O
 viên O
-... O
+... ...
 
 Khi O
 nhắc O
@@ -2151,6 +2005,7 @@ Trung B-LOC
 trìu O
 mến O
 . .
+
 Thậm O
 chí O
 , ,
@@ -2241,6 +2096,7 @@ thành O
 phố O
 này O
 . .
+
 Anh O
 đã O
 chia O
@@ -2268,6 +2124,7 @@ nơi O
 tôi O
 yêu O
 . .
+
 Tôi O
 thực O
 hiện O
@@ -2287,6 +2144,7 @@ thành O
 phố O
 này O
 . .
+
 Dù O
 không O
 thể O
@@ -2427,6 +2285,7 @@ bao O
 quanh O
 biển O
 . .
+
 Một O
 bãi O
 biển O
@@ -2460,7 +2319,7 @@ nhân O
 phi O
 lợi O
 nhuận O
-.
+. .
 
 Rất O
 nhiều O
@@ -2534,6 +2393,7 @@ cho O
 người O
 nghèo O
 . .
+
 Với O
 các O
 thiết O
@@ -2585,6 +2445,7 @@ thương O
 miễn O
 phí O
 . .
+
 Và O
 cũng O
 chính O
@@ -2660,6 +2521,7 @@ bún O
 vỉa O
 hè O
 . .
+
 Bởi O
 Đà B-LOC
 Nẵng C-LOC
@@ -2679,6 +2541,7 @@ trong O
 thành O
 phố O
 . .
+
 Chưa O
 có O
 thành O
@@ -2699,6 +2562,7 @@ như O
 thế O
 này O
 . .
+
 Bắt O
 đầu O
 từ O
@@ -2773,6 +2637,7 @@ như O
 thế O
 nào O
 . .
+
 Hà B-LOC
 Nội C-LOC
 có O
@@ -2813,6 +2678,7 @@ của O
 ẩm O
 thực O
 . .
+
 Ở IN
 Đà B-LOC
 Nẵng C-LOC
@@ -2920,6 +2786,7 @@ người O
 miền NN
 Trung B-LOC
 . .
+
 Thế O
 rồi O
 khi O
@@ -2936,6 +2803,7 @@ vài O
 trăm O
 nghìn O
 . .
+
 Có O
 lẽ O
 cũng O
@@ -3003,6 +2871,7 @@ nền O
 cát O
 trắng O
 . .
+
 Thế O
 nhưng O
 ở IN
@@ -3062,6 +2931,7 @@ du O
 lịch O
 khác O
 . .
+
 Bởi O
 tại O
 đây O
@@ -3083,6 +2953,7 @@ trên O
 bãi O
 cát O
 . .
+
 Bãi O
 biển O
 trở O
@@ -3136,6 +3007,7 @@ tui O
 nhé O
 ! !
 . .
+
 Hoặc O
 nếu O
 có O
@@ -3169,6 +3041,7 @@ nơi O
 quy O
 định O
 . .
+
 Hơn O
 nữa O
 , ,
@@ -3257,6 +3130,7 @@ nhẽo O
 được O
 rồi O
 . .
+
 Ở O
 đây O
 phục O
@@ -3277,29 +3151,6 @@ gì O
 quán O
 vỉa O
 hè O
-. .
-Thành O
-phố O
-này O
-thậm O
-chí O
-biết O
-cách O
-làm O
-chúng O
-ta O
-yêu O
-nó O
-ngay O
-cả O
-khi O
-ta O
-đang O
-... ...
-dứt O
-áo O
-ra O
-đi O
 . .
 
 Chợ B-LOC
@@ -3353,6 +3204,7 @@ lâu O
 đời O
 nhất O
 . .
+
 Được O
 xây O
 dựng O
@@ -3416,6 +3268,7 @@ món O
 ở O
 đây O
 . .
+
 Đồ O
 ăn O
 ngon O
@@ -3457,129 +3310,6 @@ như O
 ở O
 nhà O
 
-Chúng O
-ta O
-đều O
-biết O
-sự O
-khó O
-chịu O
-mỗi O
-khi O
-phải O
-bước O
-chân O
-vào O
-một O
-cái O
-nhà O
-vệ O
-sinh O
-công O
-cộng O
-. .
-Thậm O
-chí O
-có O
-người O
-còn O
-tìm O
-mọi O
-cách O
-để O
-không O
-bao O
-giờ O
-phải O
-đặt O
-chân O
-vào O
-đó O
-! !
-Việc O
-đầu O
-tư O
-cho O
-nhà O
-vệ O
-sinh O
-công O
-cộng O
-, ,
-nghe O
-thì O
-thật O
-sự O
-... ...
-chẳng O
-có O
-lợi O
-lộc O
-gì O
-, ,
-thế O
-nhưng O
-nó O
-mang O
-lại O
-rất O
-nhiều O
-sự O
-... ...
-nhẹ O
-nhõm O
-cho O
-khách O
-du O
-lịch O
-. .
-
-Và O
-để O
-xây O
-dựng O
-một O
-thành O
-phố O
-ngày O
-càng O
-thân O
-thiện O
-với O
-tất O
-cả O
-mọi O
-người O
-, ,
-mới O
-đây O
-, ,
-các O
-công O
-trình O
-nhà O
-vệ O
-sinh O
-công O
-cộng O
-tiêu O
-chuẩn O
-5 O
-sao O
-đã O
-trở O
-thành O
-một O
-chiến O
-dịch O
-khiến O
-ai O
-cũng O
-ngỡ O
-ngàng O
-thán O
-phục O
-. .
 Hội O
 Doanh O
 nghiệp O
@@ -3662,14 +3392,6 @@ tinh O
 tế O
 . .
 
-Những O
-sự O
-kiện O
-ngoài O
-trời O
-hoành O
-tráng O
-
 Một O
 năm O
 , ,
@@ -3708,56 +3430,7 @@ kiện O
 vui O
 quá O
 . .
-Nào O
-là O
-lễ O
-hội O
-Pháo O
-hoa O
-hoành O
-tráng O
-, ,
-cả O
-nhà O
-cũng O
-có O
-thể O
-kết O
-hợp O
-đi O
-xem O
-pháo O
-hoa O
-và O
-nghỉ O
-ngơi O
-, ,
-du O
-lịch O
-, ,
-rồi O
-rất O
-nhiều O
-các O
-festival O
-âm O
-nhạc O
-cũng O
-bắt O
-đầu O
-được O
-lựa O
-chọn O
-tổ O
-chức O
-ở O
-thành O
-phố O
-biển O
-xinh O
-đẹp O
-này O
-. .
+
 Chưa O
 kể O
 đến O
@@ -3776,6 +3449,7 @@ tại IN
 Đà B-LOC
 Nẵng C-LOC
 . .
+
 Các O
 sự O
 kiện O
@@ -3815,6 +3489,7 @@ ai O
 phiêu O
 lưu O
 . .
+
 Tất O
 cả O
 tạo O
@@ -3909,6 +3584,7 @@ Bộ C-LOC
 Việt C-LOC
 Nam C-LOC
 . .
+
 Vịnh O
 biển O
 Nha B-LOC
@@ -4024,6 +3700,7 @@ của O
 du O
 khách O
 . .
+
 Đi O
 du O
 lịch O
@@ -4051,18 +3728,6 @@ và O
 giá O
 tiền O
 . .
-Dưới O
-đây O
-là O
-những O
-khu O
-vực O
-bạn O
-nên O
-đặt O
-khách O
-sạn O
-. .
 
 Khu O
 vực O
@@ -4083,6 +3748,7 @@ sạn O
 , ,
 resort O
 . .
+
 Đây O
 là O
 khu O
@@ -4181,70 +3847,6 @@ Nha B-LOC
 Trang C-LOC
 . .
 
-Giá O
-phòng O
-ở O
-khu O
-vực O
-trung O
-tâm O
-khá O
-cao O
-, ,
-khách O
-sạn O
-tập O
-trung O
-trên O
-tuyến O
-đường O
-Trần O
-Phú O
-, O
-Hùng O
-Vương O
-, ,
-Nguyễn O
-Thiện O
-Thuật O
-, ,
-Biệt O
-Thự O
-... ...
-khách O
-sạn O
-khu O
-vực O
-này O
-có O
-view O
-rất O
-đẹp O
-nhìn O
-thẳng O
-xuống O
-biển O
-, ,
-để O
-tắm O
-biển O
-bạn O
-chỉ O
-cần O
-đi O
-bộ O
-vài O
-phút O
-từ O
-chỗ O
-nghỉ O
-là O
-ra O
-tới O
-bãi O
-biển O
-. .
-
 Bãi O
 Dài O
 thuộc O
@@ -4320,7 +3922,7 @@ rất O
 rộng O
 . .
 
-Ở 
+Ở
 Khu O
 vực O
 Bãi B-LOC
@@ -4383,44 +3985,6 @@ Một C-LOC
 Hòn B-LOC
 Mun C-LOC
 ... ...
-
-Trên O
-những O
-hòn O
-đảo O
-này O
-chủ O
-yếu O
-là O
-Resort O
-cao O
-cấp O
-5 O
-sao O
-có O
-bãi O
-biển O
-riêng O
-, ,
-không O
-gian O
-yên O
-tĩnh O
-tuyệt O
-đẹp O
-, ,
-đây O
-là O
-nơi O
-lý O
-tưởng O
-cho O
-các O
-kỳ O
-nghỉ O
-cao O
-cấp O
-. .
 
 Nổi O
 tiếng O
@@ -4501,6 +4065,7 @@ liền O
 với O
 biển O
 . .
+
 Dốc B-LOC
 Lết C-LOC
 nằm O
@@ -4518,21 +4083,6 @@ chừng O
 về O
 phía O
 bắc O
-. .
-
-Khu O
-vực O
-này O
-có O
-nhiều O
-khách O
-sạn O
-và O
-resort O
-cho O
-bạn O
-lựa O
-chọn O
 . .
 
 Vịnh B-LOC
@@ -4819,83 +4369,6 @@ chủ O
 đầu O
 tư O
 . .
-Số O
-lượng O
-quầy O
-hàng O
-không O
-nhiều O
-chỉ O
-vài O
-chục O
-gian O
-hàng O
-, ,
-nhưng O
-bán O
-đủ O
-loại O
-hàng O
-hóa O
-. .
-
-Bạn O
-có O
-thể O
-đi O
-dạo O
-và O
-mua O
-một O
-vài O
-món O
-đồ O
-lưu O
-niệm O
-ở O
-đây O
-, ,
-tuy O
-nhiên O
-bạn O
-nhớ O
-hỏi O
-kỹ O
-giá O
-và O
-thương O
-lượng O
-giá O
-với O
-chủ O
-các O
-gian O
-hàng O
-trước O
-khi O
-mua O
-đồ O
-, ,
-vì O
-các O
-chủ O
-hàng O
-ở O
-đây O
-thường O
-nói O
-giá O
-rất O
-cao O
-so O
-với O
-những O
-nơi O
-khác O
-trong O
-thành O
-phố O
-. .
 
 XQ B-LOC
 Nha C-LOC
@@ -4941,43 +4414,6 @@ khép O
 kín O
 đặc O
 biệt O
-. .
-
-Chỉ O
-cần O
-bước O
-vào O
-khuôn O
-viên O
-là O
-bạn O
-đã O
-lạc O
-vào O
-một O
-không O
-gian O
-yên O
-tĩnh O
-, ,
-nghệ O
-thuật O
-, ,
-đầy O
-chất O
-thơ O
-, ,
-khác O
-hoàn O
-toàn O
-với O
-những O
-con O
-phố O
-náo O
-nhiệt O
-bên O
-ngoài O
 . .
 
 Tháp B-LOC
@@ -5100,15 +4536,7 @@ mưa O
 khoáng O
 nóng O
 . .
-Giá O
-dịch O
-ở O
-đây O
-tương O
-đối O
-bình O
-dân O
-. .
+
 Suối O
 nằm O
 sau O
@@ -5148,6 +4576,7 @@ là O
 Long O
 Tự O
 . .
+
 Ngôi O
 chùa O
 này O
@@ -5239,6 +4668,7 @@ gia O
 Việt B-LOC
 Nam C-LOC
 . .
+
 Các O
 dinh O
 thự O
@@ -5265,22 +4695,6 @@ của O
 Việt B-LOC
 Nam C-LOC
 . .
-Hầu O
-hết O
-chúng O
-hiện O
-nay O
-đều O
-được O
-sử O
-dụng O
-làm O
-điểm O
-tham O
-quan O
-du O
-lịch O
-. .
 
 Bãi B-LOC
 Đá C-LOC
@@ -5301,6 +4715,7 @@ của O
 Nha B-LOC
 Trang C-LOC
 . .
+
 Bất O
 cứ O
 du O
@@ -5325,39 +4740,6 @@ thể O
 đá O
 Hòn B-LOC
 Chồng C-LOC
-. .
-Điều O
-kỳ O
-lạ O
-hấp O
-dẫn O
-du O
-khách O
-là O
-những O
-tảng O
-đá O
-lớn O
-nằm O
-chồng O
-chất O
-lên O
-nhau O
-bao O
-đời O
-nay O
-nhưng O
-sóng O
-biển O
-và O
-mưa O
-gió O
-không O
-thể O
-nào O
-xô O
-ngã O
-được O
 . .
 
 Chợ B-LOC
@@ -5394,6 +4776,7 @@ các O
 khu O
 chợ O
 . .
+
 Chợ B-LOC
 Đầm C-LOC
 là O
@@ -5455,6 +4838,7 @@ hàng O
 Nam C-LOC
 Á C-LOC
 . .
+
 Đây O
 là O
 nơi O
@@ -5566,72 +4950,6 @@ bãi O
 Hòn B-LOC
 Chồng C-LOC
 . .
-Khác O
-với O
-các O
-bãi O
-trung O
-tâm O
-, ,
-2 O
-bãi O
-tắm O
-này O
-khá O
-yên O
-tĩnh O
-. .
-Bãi O
-cát O
-dài O
-, ,
-nước O
-lặng O
-, ,
-sóng O
-yên O
-, ,
-ra O
-xa O
-hàng O
-chục O
-mét O
-nước O
-cũng O
-chỉ O
-ngang O
-ngực O
-. .
-Vào O
-những O
-ngày O
-triều O
-rút O
-, ,
-biển O
-cạn O
-trơ O
-đáy O
-, ,
-nhiều O
-du O
-khách O
-chân O
-trần O
-lội O
-ra O
-ngoài O
-xa O
-để O
-xem O
-người O
-dân O
-cạy O
-hàu O
-, ,
-bắt O
-ốc O
-… ...
 
 Vinpearl B-LOC
 Nha C-LOC
@@ -5802,45 +5120,6 @@ khai O
 phá O
 . .
 
-Biển O
-cạn O
-, ,
-nước O
-chỉ O
-khoảng O
-tới O
-đầu O
-gối O
-, ,
-bạn O
-có O
-thể O
-nô O
-đùa O
-cùng O
-sóng O
-biển O
-hay O
-thả O
-mình O
-trong O
-làn O
-nước O
-trong O
-xanh O
-, ,
-cảm O
-giác O
-thật O
-thú O
-vị O
-và O
-vô O
-cùng O
-dễ O
-chịu O
-. .
-
 Cách O
 Nha B-LOC
 Trang C-LOC
@@ -5890,19 +5169,7 @@ vào O
 bờ O
 cát O
 . .
-Khách O
-lội O
-ra O
-ngoài O
-cả O
-trăm O
-mét O
-nước O
-cũng O
-chỉ O
-ngang O
-bụng O
-. .
+
 Hàng O
 dương O
 xanh O
@@ -5953,6 +5220,7 @@ cảnh O
 tuyệt O
 đẹp O
 . .
+
 Cùng O
 với O
 những O
@@ -6056,54 +5324,6 @@ và O
 thuần O
 khiết O
 . .
-Nơi O
-đây O
-đặc O
-biệt O
-thích O
-hợp O
-cho O
-những O
-ai O
-muốn O
-tìm O
-cảm O
-giác O
-thư O
-thái O
-trong O
-không O
-gian O
-biển O
-tĩnh O
-lặng O
-. .
-Ngoài O
-ra O
-, ,
-bạn O
-cũng O
-có O
-thể O
-ngắm O
-san O
-hô O
-, ,
-lặn O
-biển O
-hay O
-thử O
-chơi O
-lướt O
-sóng O
-, ,
-lướt O
-ván O
-, ,
-đi O
-thuyền O
-Kayak O
-. .
 
 Thuộc O
 thành O
@@ -6139,47 +5359,7 @@ hoang O
 sơ O
 . .
 
-Vài O
-năm O
-nay O
-, ,
-người O
-dân O
-trên O
-đảo O
-đã O
-quen O
-thấy O
-những O
-du O
-khách O
-từ O
-phương O
-xa O
-háo O
-hức O
-đặt O
-chân O
-lên O
-bến O
-cảng O
-, ,
-say O
-mê O
-khám O
-phá O
-từng O
-ưu O
-điểm O
-tuyệt O
-vời O
-của O
-vùng O
-đảo O
-hoang O
-sơ O
-. .
-thuộc O
+Thuộc O
 địa O
 phận O
 xã O
@@ -6207,48 +5387,8 @@ Tiên C-LOC
 Vĩnh B-LOC
 Hy C-LOC
 . .
-Nơi O
-đây O
-nổi O
-tiếng O
-với O
-những O
-bãi O
-cát O
-trắng O
-mịn O
-, ,
-và O
-làn O
-nước O
-trong O
-xanh O
-. .
-Đảo O
-chưa O
-được O
-khai O
-thác O
-du O
-lịch O
-nhiều O
-nên O
-vẫn O
-còn O
-giữ O
-nguyên O
-được O
-nhiều O
-nét O
-hoang O
-sơ O
-vô O
-cùng O
-quyến O
-rũ O
-. .
 
-cách O
+Cách O
 thành O
 phố O
 Nha B-LOC
@@ -6259,8 +5399,9 @@ theo O
 hướng O
 Bắc O
 – –
-Nam O 
+Nam O
 . .
+
 Xuất O
 phát O
 từ O
@@ -6314,7 +5455,7 @@ tĩnh O
 lặng O
 . .
 
-là O
+Là O
 một O
 dãy O
 gồm O
@@ -6338,6 +5479,7 @@ tỉnh O
 Khánh B-LOC
 Hòa C-LOC
 . .
+
 Đảo B-LOC
 Điệp C-LOC
 Sơn C-LOC
@@ -6439,6 +5581,7 @@ thuyền O
 đáy O
 kính O
 … ...
+
 Đảo O
 có O
 diện O
@@ -6458,6 +5601,7 @@ phía O
 Đông O
 Nam O
 . .
+
 Từ O
 Hòn B-LOC
 Tằm C-LOC
@@ -6481,37 +5625,6 @@ Ranh C-LOC
 ở O
 phía O
 Nam O
-. .
-Ngoài O
-bãi O
-tắm O
-tuyện O
-đẹp O
-, ,
-nơi O
-đây O
-còn O
-nổi O
-tiếng O
-với O
-hoạt O
-động O
-khám O
-phá O
-biển O
-bằng O
-tàu O
-đáy O
-kính O
-cũng O
-như O
-dịch O
-vụ O
-lặn O
-biển O
-ngắm O
-san O
-hô O
 . .
 
 Trên O
@@ -6546,42 +5659,8 @@ xem O
 xiếc O
 voi O
 ... ...
-Ngoài O
-ra O
-còn O
-có O
-nhà O
-hàng O
-ăn O
-uống O
-, ,
-giá O
-cả O
-không O
-quá O
-cao O
-, ,
-những O
-căn O
-nhà O
-trọ O
-bằng O
-tranh O
-hoặc O
-gạch O
-đủ O
-tiện O
-nghi O
-, ,
-nằm O
-riêng O
-rẽ O
-trông O
-xinh O
-xắn O
-. .
 
-nằm O
+Nằm O
 trên O
 đảo O
 Bồng B-LOC
@@ -6595,46 +5674,6 @@ thuộc O
 vịnh O
 Nha B-LOC
 Trang C-LOC
-. .
-Đó O
-là O
-một O
-vùng O
-hồ O
-trên O
-biển O
-được O
-ngăn O
-lại O
-bằng O
-hệ O
-thống O
-kè O
-đá O
-. .
-Trong O
-hồ O
-được O
-nuôi O
-thả O
-hàng O
-trăm O
-loại O
-sinh O
-vật O
-biển O
-quý O
-hiếm O
-và O
-đẹp O
-mắt O
-như O
-một O
-bảo O
-tàng O
-sống O
-về O
-biển O
 . .
 
 Khu O
@@ -6663,6 +5702,7 @@ phía O
 Đông O
 Bắc O
 . .
+
 Núi B-LOC
 Hòn C-LOC
 Hèo C-LOC
@@ -6802,23 +5842,3 @@ khơi O
 mênh O
 mông O
 . .
-Giá O
-tour O
-khoảng O
-150 O
-nghìn O
-VND O
-/ /
-người O
-, ,
-bạn O
-có O
-thể O
-nhờ O
-khách O
-sạn O
-đặt O
-tour O
-hộ O
-. .
-
