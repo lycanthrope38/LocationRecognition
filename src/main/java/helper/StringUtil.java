@@ -9,6 +9,8 @@ public class StringUtil {
         output = output.replace(".", " . ");
         output = output.replace("-", " - ");
         output = output.replace("!", " ! ");
+        output = output.replace("(", " ( ");
+        output = output.replace(")", " ) ");
 
         return output;
     }
@@ -17,6 +19,11 @@ public class StringUtil {
         String output = input;
         output = output.replace(" ,", ",");
         output = output.replace(" .", ".");
+        output = output.replace(" ( ", "(");
+        output = output.replace(" ) ", ")");
+        output = output.replace(" \" ", "\"");
+        output = output.replace(" - ", "-");
+        output = output.replace(" ! ", "!");
 
         return output;
     }
