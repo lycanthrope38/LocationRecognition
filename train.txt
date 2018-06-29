@@ -128,7 +128,7 @@ năm O
 Bắc O
 qua O
 dòng O
-sông NN
+sông O
 Hàn B-LOC
 thơ O
 mộng O
@@ -152,7 +152,7 @@ nổi O
 bật O
 nhất O
 là O
-cầu NN
+cầu O
 Rồng B-LOC
 . .
 
@@ -193,7 +193,7 @@ hội O
 chiêm O
 ngưỡng O
 cảnh O
-cầu NN
+cầu O
 Rồng B-LOC
 phun O
 lửa O
@@ -267,7 +267,7 @@ xô O
 bồ O
 . .
 
-Núi NN
+Núi O
 Bà B-LOC
 Nà C-LOC
 là O
@@ -302,7 +302,7 @@ xây O
 dựng O
 trên O
 đỉnh O
-núi NN
+núi O
 Chúa B-LOC
 được O
 xem O
@@ -353,7 +353,7 @@ Bãi B-LOC
 Bắc C-LOC
 ở O
 bán O
-đảo NN
+đảo O
 Sơn B-LOC
 Trà C-LOC
 đẹp O
@@ -394,7 +394,7 @@ sơ O
 
 Ngoài O
 bán O
-đảo NN
+đảo O
 Sơn B-LOC
 Trà C-LOC
 , ,
@@ -413,7 +413,7 @@ tiếng O
 nhất O
 là O
 bãi O
-biển NN
+biển O
 Mỹ B-LOC
 Khê C-LOC
 - -
@@ -485,7 +485,7 @@ hiện O
 , ,
 đâu O
 đó O
-ở IN
+ở O
 Đà B-LOC
 Nẵng C-LOC
 vẫn O
@@ -524,7 +524,7 @@ hăng O
 say O
 trên O
 bãi O
-biển NN
+biển O
 Thọ B-LOC
 Quang C-LOC
 . .
@@ -756,7 +756,7 @@ những O
 tuyệt O
 vời O
 nhất O
-ở IN
+ở O
 Đà B-LOC
 Nẵng C-LOC
 chính O
@@ -816,7 +816,7 @@ lần O
 tiên O
 xuất O
 hiện O
-tại IN
+tại O
 Việt B-LOC
 Nam C-LOC
 , ,
@@ -1008,7 +1008,7 @@ mát O
 Rồi O
 tới O
 chiếc O
-cầu NN
+cầu O
 Rồng B-LOC
 hoành O
 tráng O
@@ -1074,7 +1074,7 @@ lắp O
 ở O
 bờ O
 Đông O
-sông NN
+sông O
 Hàn B-LOC
 , ,
 nằm O
@@ -1082,10 +1082,10 @@ nằm O
 vị O
 trí O
 giữa O
-cầu NN
+cầu O
 Rồng B-LOC
 và O
-cầu NN
+cầu O
 Sông B-LOC
 Hàn C-LOC
 . .
@@ -1114,7 +1114,7 @@ xây O
 dựng O
 tại O
 bờ O
-sông NN
+sông O
 Hàn B-LOC
 . .
 
@@ -1171,12 +1171,12 @@ trình O
 này O
 xuất O
 hiện O
-tại IN
+tại O
 Việt B-LOC
 Nam C-LOC
 . .
 
-Từ VB
+Từ O
 Đà B-LOC
 Nẵng C-LOC
 , ,
@@ -1215,7 +1215,7 @@ thể O
 chạy O
 xe O
 máy O
-về VB
+về O
 Hội B-LOC
 An C-LOC
 , ,
@@ -1229,7 +1229,7 @@ khoảng O
 1 O
 tiếng O
 đi O
-ngắm VB
+ngắm O
 Lăng B-LOC
 Cô C-LOC
 hay O
@@ -1249,11 +1249,11 @@ cố O
 đô O
 . .
 
-Từ VB
+Từ O
 Đà B-LOC
 Nẵng C-LOC
 đi O
-thăm VB
+thăm O
 Mỹ B-LOC
 Sơn C-LOC
 cũng O
@@ -1262,7 +1262,7 @@ hề O
 xa O
 , ,
 và O
-đi VB
+đi O
 Bà B-LOC
 Nà C-LOC
 bằng O
@@ -1284,7 +1284,7 @@ mạnh O
 chạy O
 xe O
 trên O
-đèo NN
+đèo O
 Hải B-LOC
 Vân C-LOC
 ắt O
@@ -1397,7 +1397,7 @@ khoáng O
 như O
 sức O
 sống O
-miền NN
+miền O
 Trung B-LOC
 . .
 
@@ -1413,7 +1413,7 @@ trên O
 thế O
 giới O
 , ,
-cầu NN
+cầu O
 Rồng B-LOC
 của O
 Đà B-LOC
@@ -1452,7 +1452,7 @@ vào O
 năm O
 2013 O
 , ,
-cầu NN
+cầu O
 Rồng B-LOC
 là O
 cây O
@@ -1462,7 +1462,7 @@ thứ O
 bắc O
 qua O
 con O
-sông NN
+sông O
 Hàn B-LOC
 nổi O
 tiếng O
@@ -1487,11 +1487,11 @@ phun O
 lửa O
 nước O
 , ,
-cầu NN
+cầu O
 Rồng B-LOC
 bắc O
 qua O
-sông NN
+sông O
 Hàn B-LOC
 ( (
 Đà B-LOC
@@ -1527,7 +1527,7 @@ như O
 Đà B-LOC
 Lạt C-LOC
 của O
-miền NN
+miền O
 Trung B-LOC
 . .
 
@@ -1573,13 +1573,13 @@ mờ O
 Khi O
 đặt O
 chân O
-đến VB
+đến O
 Đà B-LOC
 Nẵng C-LOC
 , ,
 người O
 dân O
-xứ NN
+xứ O
 Quảng B-LOC
 sẽ O
 tặng O
@@ -1647,7 +1647,7 @@ lần O
 đầu O
 đặt O
 chân O
-đến VB
+đến O
 Đà B-LOC
 Nẵng C-LOC
 . .
@@ -1776,7 +1776,7 @@ giờ O
 
 Khi O
 nhắc O
-đến VB
+đến O
 Đà B-LOC
 Nẵng C-LOC
 , ,
@@ -1803,7 +1803,7 @@ nơi O
 bằng O
 chất O
 giọng O
-miền NN
+miền O
 Trung B-LOC
 trìu O
 mến O
@@ -2055,13 +2055,13 @@ người O
 dân O
 nghèo O
 đến O
-từ VB
+từ O
 Đà B-LOC
 Nẵng C-LOC
 và O
 các O
 tỉnh O
-miền NN
+miền O
 Trung B-LOC
 đã O
 có O
@@ -2182,7 +2182,7 @@ có O
 thành O
 phố O
 nào O
-tại IN
+tại O
 Việt B-LOC
 Nam C-LOC
 có O
@@ -2306,7 +2306,7 @@ của O
 thực O
 . .
 
-Ở IN
+Ở O
 Đà B-LOC
 Nẵng C-LOC
 , ,
@@ -2410,7 +2410,7 @@ vị O
 đà O
 của O
 người O
-miền NN
+miền O
 Trung B-LOC
 . .
 
@@ -2430,7 +2430,7 @@ chỉ O
 muốn O
 chuyển O
 quách O
-vào VB
+vào O
 Đà B-LOC
 Nẵng C-LOC
 sống O
@@ -2444,7 +2444,7 @@ ngon O
 
 Thế O
 nhưng O
-ở IN
+ở O
 Đà B-LOC
 Nẵng C-LOC
 lại O
@@ -2557,7 +2557,7 @@ bản O
 
 Nằm O
 trên O
-đường NN
+đường O
 Ông B-LOC
 Ích C-LOC
 Khiêm C-LOC
@@ -2628,7 +2628,7 @@ không O
 nếu O
 bạn O
 đã O
-đến VB
+đến O
 Chợ B-LOC
 Cồn C-LOC
 rồi O
@@ -2772,7 +2772,7 @@ người O
 ta O
 có O
 thể O
-đi VB
+đi O
 Đà B-LOC
 Nẵng C-LOC
 một O
@@ -2792,7 +2792,7 @@ chỉ O
 bởi O
 vì O
 , ,
-ở IN
+ở O
 Đà B-LOC
 Nẵng C-LOC
 có O
@@ -2818,7 +2818,7 @@ vừa O
 được O
 tổ O
 chức O
-tại IN
+tại O
 Đà B-LOC
 Nẵng C-LOC
 . .
@@ -2829,7 +2829,7 @@ kiện O
 hay O
 hoạt O
 động O
-ở IN
+ở O
 Đà B-LOC
 Nẵng C-LOC
 đều O
@@ -2943,14 +2943,14 @@ là O
 thủ O
 phủ O
 của O
-tỉnh NN
+tỉnh O
 Khánh B-LOC
 Hòa C-LOC
 , ,
 thuộc O
 miền O
-duyên NN
-hải NN
+duyên O
+hải O
 Nam B-LOC
 Trung C-LOC
 Bộ C-LOC
@@ -2991,7 +2991,7 @@ này O
 . .
 
 Tuyến O
-đường NN
+đường O
 Trần B-LOC
 Phú C-LOC
 chạy C-LOC
@@ -3050,7 +3050,7 @@ Trang C-LOC
 
 Khách O
 sạn O
-ở IN
+ở O
 Nha B-LOC
 Trang C-LOC
 hầu O
@@ -3235,7 +3235,7 @@ bãi O
 biển O
 đẹp O
 nhất O
-ở IN
+ở O
 Khánh B-LOC
 Hòa C-LOC
 , ,
@@ -3530,7 +3530,7 @@ lịch O
 nổi O
 tiếng O
 nhất O
-ở IN
+ở O
 Nha B-LOC
 Trang C-LOC
 . .
@@ -3576,7 +3576,7 @@ hầu O
 hết O
 du O
 khách O
-đến VB
+đến O
 Nha B-LOC
 Trang C-LOC
 đều O
@@ -4206,7 +4206,7 @@ cứu O
 biển O
 hàng O
 đầu O
-ở IN
+ở O
 Đông B-LOC
 Nam C-LOC
 Á C-LOC
@@ -4234,7 +4234,7 @@ biển O
 . .
 
 Đến O
-thăm VB
+thăm O
 Viện B-LOC
 Hải C-LOC
 Dương C-LOC
@@ -4777,7 +4777,7 @@ Nam O
 
 Xuất O
 phát O
-từ VB
+từ O
 Phan B-LOC
 Rang C-LOC
 men O
@@ -4918,12 +4918,12 @@ học O
 biển O
 bậc O
 nhất O
-ở IN
+ở O
 Việt B-LOC
 Nam C-LOC
 . .
 
-Đến VB
+Đến O
 Hòn B-LOC
 Mun C-LOC
 , ,
@@ -4975,7 +4975,7 @@ phía O
 Nam O
 . .
 
-Từ VB
+Từ O
 Hòn B-LOC
 Tằm C-LOC
 có O
@@ -5128,7 +5128,7 @@ lịch O
 cụ O
 thể O
 nào O
-ở IN
+ở O
 Nha B-LOC
 Trang C-LOC
 , ,
@@ -5297,7 +5297,7 @@ Lâm B-LOC
 Đồng C-LOC
 . .
 
-Từ VB
+Từ O
 Đà B-LOC
 Lạt C-LOC
 , ,
@@ -5466,7 +5466,7 @@ và O
 thuộc O
 loại O
 đẹp O
-ở IN
+ở O
 Đông B-LOC
 Nam C-LOC
 Á C-LOC
@@ -5494,7 +5494,7 @@ quan O
 và O
 chụp O
 ảnh O
-tại IN
+tại O
 Đà B-LOC
 Lạt C-LOC
 . .
@@ -5707,7 +5707,7 @@ kính O
 1.200ha O
 nhà O
 lưới O
-ở IN
+ở O
 Đà B-LOC
 Lạt C-LOC
 và O
@@ -5858,7 +5858,7 @@ trí O
 nhà O
 kính O
 như O
-ở IN
+ở O
 Đà B-LOC
 Lạt C-LOC
 hiện O
@@ -6388,7 +6388,7 @@ cảm O
 nhận O
 chút O
 ít O
-tại IN
+tại O
 Đà B-LOC
 Lạt C-LOC
 . .
@@ -6396,7 +6396,7 @@ Lạt C-LOC
 Dạo O
 buổi O
 tối O
-ở IN
+ở O
 Đà B-LOC
 Lạt C-LOC
 , ,
@@ -6478,7 +6478,7 @@ Hà B-LOC
 Nội C-LOC
 . .
 
-Đến VB
+Đến O
 Đà B-LOC
 Lạt C-LOC
 , ,
@@ -6987,13 +6987,13 @@ nổi O
 tiếng O
 bậc O
 nhất O
-tại IN
+tại O
 Đà B-LOC
 Lạt C-LOC
 . .
 
 Để O
-đến VB
+đến O
 Dalat B-LOC
 Milk C-LOC
 Farm C-LOC
@@ -7042,7 +7042,7 @@ nào O
 đã O
 từng O
 ghé O
-đến VB
+đến O
 Ma B-LOC
 Rừng C-LOC
 Lữ C-LOC
@@ -7197,7 +7197,7 @@ thu O
 hút O
 du O
 khách O
-tại IN
+tại O
 Đà B-LOC
 Lạt C-LOC
 . .
@@ -7497,7 +7497,7 @@ hợp O
 nhất O
 cho O
 chuyến O
-đi VB
+đi O
 Đà B-LOC
 Lạt C-LOC
 của O
@@ -7921,7 +7921,7 @@ hùng O
 vĩ O
 của O
 điểm O
-đến VB
+đến O
 Đà B-LOC
 Lạt C-LOC
 . .
@@ -7934,7 +7934,7 @@ Ly C-LOC
 địa O
 điểm O
 đẹp O
-ở IN
+ở O
 Đà B-LOC
 Lạt C-LOC
 có O
@@ -8274,7 +8274,7 @@ nghệ O
 thuật O
 tại O
 điểm O
-đến VB
+đến O
 Đà B-LOC
 Lạt C-LOC
 . .
@@ -8408,7 +8408,7 @@ lịch O
 hấp O
 dẫn O
 khi O
-đến VB
+đến O
 Đà B-LOC
 Lạt C-LOC
 . .
@@ -8443,7 +8443,7 @@ du O
 khách O
 đặt O
 chân O
-đến VB
+đến O
 Đà B-LOC
 Lạt C-LOC
 đều O
@@ -8464,7 +8464,7 @@ những O
 điểm O
 du O
 lịch O
-ở IN
+ở O
 Đà B-LOC
 Lạt C-LOC
 không O
@@ -8482,7 +8482,7 @@ tiềm O
 thức O
 khi O
 nhắc O
-đến VB
+đến O
 Đà B-LOC
 Lạt C-LOC
 mọi O
@@ -8572,7 +8572,7 @@ lại O
 hình O
 ảnh O
 đẹp O
-về VB
+về O
 Đà B-LOC
 Lạt C-LOC
 . .
@@ -8657,7 +8657,7 @@ sắc O
 hồng O
 . .
 
-Đến VB
+Đến O
 Hồ B-LOC
 Xuân C-LOC
 Hương C-LOC
@@ -8756,7 +8756,7 @@ thưởng O
 thức O
 cảnh O
 đẹp O
-tại IN
+tại O
 Hồ B-LOC
 Xuân C-LOC
 Hương C-LOC
@@ -8904,7 +8904,7 @@ một O
 điểm O
 tham O
 quan O
-ở IN
+ở O
 Đà B-LOC
 Lạt C-LOC
 . .
@@ -8966,7 +8966,7 @@ Than C-LOC
 Thở C-LOC
 nghìn O
 năm O
-ở IN
+ở O
 Đà B-LOC
 Lạt C-LOC
 . .
@@ -9213,7 +9213,7 @@ thành O
 một O
 cảnh O
 đẹp O
-ở IN
+ở O
 Đà B-LOC
 Lạt C-LOC
 không O
@@ -9367,7 +9367,7 @@ trong O
 những O
 cảnh O
 đẹp O
-ở IN
+ở O
 Đà B-LOC
 Lạt C-LOC
 nổi O
@@ -9441,7 +9441,7 @@ Than C-LOC
 Thở C-LOC
 cảnh O
 đẹp O
-ở IN
+ở O
 Đà B-LOC
 Lạt C-LOC
 vẫn O

@@ -34,10 +34,16 @@ public class Evaluator {
         int relevanceCount = 0;
         for (Entity e1 : groundTruth) {
             for (Entity e2 : predicted) {
-                if (e2.equals(e1)) {
+                if (e1.equals(e2)) {
                     relevanceCount++;
                 }
             }
+        }
+
+        if (predicted.size() == 0) {
+            results.put("precision", 0.0);
+            results.put("recall", 0.0);
+            return results;
         }
 
         double precision = (double) relevanceCount / predicted.size();
