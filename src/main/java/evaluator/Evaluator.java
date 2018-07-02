@@ -31,6 +31,12 @@ public class Evaluator {
                                                          ArrayList<Entity> groundTruth) {
         Map<String, Double> results = new HashMap<>();
 
+        if (predicted.size() == 0) {
+            results.put("precision", 0.0);
+            results.put("recall", 0.0);
+            return results;
+        }
+
         int relevanceCount = 0;
         for (Entity e1 : groundTruth) {
             for (Entity e2 : predicted) {
@@ -38,12 +44,6 @@ public class Evaluator {
                     relevanceCount++;
                 }
             }
-        }
-
-        if (predicted.size() == 0) {
-            results.put("precision", 0.0);
-            results.put("recall", 0.0);
-            return results;
         }
 
         double precision = (double) relevanceCount / predicted.size();
