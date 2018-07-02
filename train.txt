@@ -3,12 +3,12 @@ nỗ O
 lực O
 vươn O
 lên O
-, ,
+, O
 phát O
 triển O
 không O
 ngừng O
-, ,
+, O
 Đà B-LOC
 Nẵng C-LOC
 giờ O
@@ -37,7 +37,7 @@ sống O
 nhất O
 Việt B-LOC
 Nam C-LOC
-. .
+. O
 
 Đà B-LOC
 Nẵng C-LOC
@@ -55,7 +55,7 @@ hải O
 Nam B-LOC
 Trung C-LOC
 Bộ C-LOC
-, ,
+, O
 có O
 vị O
 trí O
@@ -67,22 +67,22 @@ cả O
 về O
 kinh O
 tế O
-, ,
+, O
 xã O
 hội O
 và O
 an O
 ninh O
-- -
+- O
 quốc O
 phòng O
-. .
+. O
 
 Những O
 năm O
 gần O
 đây O
-, ,
+, O
 Đà B-LOC
 Nẵng C-LOC
 đã O
@@ -105,7 +105,7 @@ cầu O
 cảng O
 hiện O
 đại O
-, ,
+, O
 thu O
 hút O
 một O
@@ -123,7 +123,7 @@ ghé O
 thăm O
 mỗi O
 năm O
-. .
+. O
 
 Bắc O
 qua O
@@ -132,13 +132,13 @@ sông O
 Hàn B-LOC
 thơ O
 mộng O
-- -
+- O
 biểu O
 tượng O
 của O
 thành O
 phố O
-- -
+- O
 là O
 6 O
 cây O
@@ -147,14 +147,14 @@ tuyệt O
 đẹp O
 khác O
 nhau O
-, ,
+, O
 nổi O
 bật O
 nhất O
 là O
 cầu O
 Rồng B-LOC
-. .
+. O
 
 Đây O
 là O
@@ -172,7 +172,7 @@ nhất O
 của O
 Đà B-LOC
 Nẵng C-LOC
-. .
+. O
 
 Cứ O
 đến O
@@ -184,7 +184,7 @@ dịp O
 lễ O
 đặc O
 biệt O
-, ,
+, O
 du O
 khách O
 có O
@@ -203,11 +203,11 @@ nước O
 rất O
 đẹp O
 mắt O
-. .
+. O
 
 Đêm O
 27/7/2017 O
-, ,
+, O
 thành O
 đoàn O
 Đà B-LOC
@@ -230,7 +230,7 @@ anh O
 hùng O
 liệt O
 sĩ O
-. .
+. O
 
 Trái O
 ngược O
@@ -245,7 +245,7 @@ lên O
 ngày O
 càng O
 nhiều O
-, ,
+, O
 Đà B-LOC
 Nẵng C-LOC
 vẫn O
@@ -258,14 +258,14 @@ cảm O
 giác O
 yên O
 bình O
-, ,
+, O
 dễ O
 chịu O
-, ,
+, O
 không O
 xô O
 bồ O
-. .
+. O
 
 Núi O
 Bà B-LOC
@@ -280,7 +280,7 @@ núi O
 nhất O
 Đà B-LOC
 Nẵng C-LOC
-, ,
+, O
 cùng O
 với O
 Ngũ B-LOC
@@ -289,7 +289,7 @@ Sơn C-LOC
 và O
 Sơn B-LOC
 Trà C-LOC
-. .
+. O
 
 Trung O
 tâm O
@@ -313,7 +313,7 @@ quý O
 của O
 thành O
 phố O
-. .
+. O
 
 Hệ O
 thống O
@@ -327,7 +327,7 @@ công O
 viên O
 giải O
 trí O
-, ,
+, O
 vườn O
 hoa O
 hay O
@@ -347,7 +347,7 @@ của O
 thành O
 phố O
 biển O
-. .
+. O
 
 Bãi B-LOC
 Bắc C-LOC
@@ -372,7 +372,7 @@ nước O
 biển O
 trong O
 xanh O
-, ,
+, O
 sát O
 đó O
 là O
@@ -390,14 +390,14 @@ rừng O
 núi O
 hoang O
 sơ O
-. .
+. O
 
 Ngoài O
 bán O
 đảo O
 Sơn B-LOC
 Trà C-LOC
-, ,
+, O
 Đà B-LOC
 Nẵng C-LOC
 còn O
@@ -407,7 +407,7 @@ bãi O
 biển O
 đẹp O
 khác O
-, ,
+, O
 nổi O
 tiếng O
 nhất O
@@ -416,7 +416,7 @@ bãi O
 biển O
 Mỹ B-LOC
 Khê C-LOC
-- -
+- O
 nơi O
 được O
 công O
@@ -431,7 +431,7 @@ biển O
 nhất O
 thế O
 giới O
-. .
+. O
 
 Sau O
 ánh O
@@ -459,7 +459,7 @@ khơi O
 bắt O
 hải O
 sản O
-, ,
+, O
 góp O
 phần O
 bảo O
@@ -473,7 +473,7 @@ biển O
 đảo O
 Việt B-LOC
 Nam C-LOC
-. .
+. O
 
 Không O
 những O
@@ -482,7 +482,7 @@ nét O
 đẹp O
 hiện O
 đại O
-, ,
+, O
 đâu O
 đó O
 ở O
@@ -496,7 +496,7 @@ lao O
 động O
 bình O
 dị O
-, ,
+, O
 mộc O
 mạc O
 của O
@@ -509,7 +509,7 @@ minh O
 vừa O
 hé O
 rạng O
-. .
+. O
 
 Một O
 ngày O
@@ -527,7 +527,7 @@ bãi O
 biển O
 Thọ B-LOC
 Quang C-LOC
-. .
+. O
 
 New O
 York O
@@ -550,7 +550,7 @@ giới O
 vào O
 năm O
 2015 O
-, ,
+, O
 cũng O
 bởi O
 nơi O
@@ -566,7 +566,7 @@ trải O
 dài O
 tuyệt O
 đẹp O
-. .
+. O
 
 Đến O
 với O
@@ -574,7 +574,7 @@ thành O
 phố O
 Đà B-LOC
 Nẵng C-LOC
-, ,
+, O
 bạn O
 có O
 bãi O
@@ -584,13 +584,13 @@ rũ O
 nhất O
 hành O
 tinh O
-, ,
+, O
 có O
 núi O
-, ,
+, O
 có O
 đèo O
-, ,
+, O
 có O
 những O
 khu O
@@ -601,7 +601,7 @@ hoa O
 nhất O
 thế O
 giới O
-, ,
+, O
 nhưng O
 bạn O
 sẽ O
@@ -632,7 +632,7 @@ mọi O
 lúc O
 mọi O
 nơi O
-. .
+. O
 
 Dễ O
 hiểu O
@@ -652,12 +652,12 @@ móc O
 túi O
 du O
 khách O
-. .
+. O
 
 Đối O
 với O
 họ O
-, ,
+, O
 đây O
 đơn O
 giản O
@@ -668,7 +668,7 @@ thành O
 phố O
 thân O
 thương O
-, ,
+, O
 là O
 niềm O
 tự O
@@ -684,7 +684,7 @@ tha O
 thiết O
 đến O
 mức O
-, ,
+, O
 họ O
 muốn O
 giữ O
@@ -706,7 +706,7 @@ từng O
 chân O
 đến O
 đây O
-. .
+. O
 
 Hãy O
 cùng O
@@ -723,7 +723,7 @@ tuyệt O
 vời O
 dưới O
 đây O
-, ,
+, O
 để O
 hình O
 dung O
@@ -747,7 +747,7 @@ rất O
 thân O
 thương O
 này O
-. .
+. O
 
 Một O
 trong O
@@ -761,7 +761,7 @@ nhất O
 Nẵng C-LOC
 chính O
 là O
-, ,
+, O
 thành O
 phố O
 này O
@@ -779,13 +779,13 @@ lấy O
 lòng O
 du O
 khách O
-. .
+. O
 
 Cứ O
 sau O
 một O
 năm O
-, ,
+, O
 Đà B-LOC
 Nẵng C-LOC
 lại O
@@ -806,7 +806,7 @@ tới O
 những O
 du O
 khách O
-, ,
+, O
 có O
 những O
 công O
@@ -819,7 +819,7 @@ hiện O
 tại O
 Việt B-LOC
 Nam C-LOC
-, ,
+, O
 mang O
 đến O
 cho O
@@ -835,7 +835,7 @@ và O
 hiện O
 đại O
 hơn O
-. .
+. O
 
 Những O
 dịch O
@@ -859,10 +859,10 @@ hình O
 Nẵng C-LOC
 văn O
 minh O
-, ,
+, O
 thân O
 thiện O
-. .
+. O
 
 Những O
 nhà O
@@ -872,7 +872,7 @@ miễn O
 phí O
 5 O
 sao O
-, ,
+, O
 những O
 con O
 đường O
@@ -883,19 +883,19 @@ và O
 sạch O
 bóng O
 rác O
-, ,
+, O
 bệnh O
 viện O
 ung O
 thư O
 nhân O
 đạo O
-... ...
+... O
 
 Hay O
 thậm O
 chí O
-, ,
+, O
 tới O
 lúc O
 chuẩn O
@@ -904,7 +904,7 @@ rời O
 khỏi O
 thành O
 phố O
-, ,
+, O
 vẫn O
 còn O
 cảm O
@@ -924,7 +924,7 @@ thở O
 ở O
 sân O
 bay O
-. .
+. O
 
 Thành O
 phố O
@@ -934,10 +934,10 @@ công O
 trình O
 mới O
 mẻ O
-, ,
+, O
 thú O
 vị O
-. .
+. O
 
 Đà B-LOC
 Nẵng C-LOC
@@ -955,7 +955,7 @@ cơn O
 sốt O
 nào O
 đó O
-. .
+. O
 
 Đấy O
 là O
@@ -967,10 +967,10 @@ công O
 trình O
 mới O
 mẻ O
-, ,
+, O
 thú O
 vị O
-, ,
+, O
 xuất O
 hiện O
 liên O
@@ -982,7 +982,7 @@ người O
 ta O
 nhớ O
 về O
-. .
+. O
 
 Năm O
 nào O
@@ -990,7 +990,7 @@ nào O
 là O
 Bà B-LOC
 Nà C-LOC
-- -
+- O
 khu O
 du O
 lịch O
@@ -1003,7 +1003,7 @@ khí O
 hậu O
 dịu O
 mát O
-. .
+. O
 
 Rồi O
 tới O
@@ -1018,7 +1018,7 @@ phun O
 nước O
 phun O
 lửa O
-. .
+. O
 
 Rồi O
 tới O
@@ -1028,7 +1028,7 @@ Mặt O
 trời O
 Sun O
 Wheel O
-, ,
+, O
 hay O
 chỉ O
 đơn O
@@ -1046,11 +1046,11 @@ hiện O
 A O
 La O
 Carte O
-. .
+. O
 
 Mới O
 đây O
-, ,
+, O
 người O
 ta O
 thích O
@@ -1076,7 +1076,7 @@ bờ O
 Đông O
 sông O
 Hàn B-LOC
-, ,
+, O
 nằm O
 ở O
 vị O
@@ -1088,7 +1088,7 @@ và O
 cầu O
 Sông B-LOC
 Hàn C-LOC
-. .
+. O
 
 Sau O
 khi O
@@ -1100,7 +1100,7 @@ rồng O
 được O
 khánh O
 thành O
-, ,
+, O
 một O
 chiếc O
 cầu O
@@ -1116,7 +1116,7 @@ tại O
 bờ O
 sông O
 Hàn B-LOC
-. .
+. O
 
 Cây O
 cầu O
@@ -1146,7 +1146,7 @@ những O
 đôi O
 uyên O
 ương O
-. .
+. O
 
 Cầu O
 tình O
@@ -1174,12 +1174,12 @@ hiện O
 tại O
 Việt B-LOC
 Nam C-LOC
-. .
+. O
 
 Từ O
 Đà B-LOC
 Nẵng C-LOC
-, ,
+, O
 du O
 khách O
 chẳng O
@@ -1207,7 +1207,7 @@ cực O
 kỳ O
 nổi O
 tiếng O
-. .
+. O
 
 Họ O
 có O
@@ -1218,7 +1218,7 @@ máy O
 về O
 Hội B-LOC
 An C-LOC
-, ,
+, O
 cũng O
 có O
 thể O
@@ -1247,7 +1247,7 @@ vùng O
 đất O
 cố O
 đô O
-. .
+. O
 
 Từ O
 Đà B-LOC
@@ -1260,7 +1260,7 @@ cũng O
 chẳng O
 hề O
 xa O
-, ,
+, O
 và O
 đi O
 Bà B-LOC
@@ -1270,7 +1270,7 @@ xe O
 máy O
 cũng O
 được O
-. .
+. O
 
 Với O
 những O
@@ -1280,7 +1280,7 @@ khách O
 cảm O
 giác O
 mạnh O
-, ,
+, O
 chạy O
 xe O
 trên O
@@ -1300,7 +1300,7 @@ vẻ O
 đẹp O
 hùng O
 vĩ O
-, ,
+, O
 ngoạn O
 mục O
 của O
@@ -1319,7 +1319,7 @@ trên O
 con O
 đèo O
 này O
-. .
+. O
 
 Nếu O
 Huế B-LOC
@@ -1336,7 +1336,7 @@ hình O
 của O
 cố O
 đô O
-, ,
+, O
 đô O
 thị O
 cổ O
@@ -1357,7 +1357,7 @@ vì O
 sự O
 văn O
 minh O
-, ,
+, O
 hiện O
 đại O
 và O
@@ -1371,7 +1371,7 @@ mỗi O
 lần O
 ghé O
 thăm O
-. .
+. O
 
 Bạn O
 nên O
@@ -1390,7 +1390,7 @@ biển O
 táp O
 vào O
 mặt O
-, ,
+, O
 phóng O
 khoáng O
 đúng O
@@ -1399,7 +1399,7 @@ sức O
 sống O
 miền O
 Trung B-LOC
-. .
+. O
 
 Trong O
 số O
@@ -1412,13 +1412,13 @@ nhất O
 trên O
 thế O
 giới O
-, ,
+, O
 cầu O
 Rồng B-LOC
 của O
 Đà B-LOC
 Nẵng C-LOC
-, ,
+, O
 Việt B-LOC
 Nam C-LOC
 vinh O
@@ -1436,14 +1436,14 @@ khả O
 năng O
 phun O
 lửa O
-, ,
+, O
 phun O
 nước O
 vô O
 cùng O
 ấn O
 tượng O
-. .
+. O
 
 Được O
 thông O
@@ -1451,7 +1451,7 @@ xe O
 vào O
 năm O
 2013 O
-, ,
+, O
 cầu O
 Rồng B-LOC
 là O
@@ -1471,7 +1471,7 @@ Thành O
 phố O
 Đà B-LOC
 Nẵng C-LOC
-. .
+. O
 
 Với O
 kiến O
@@ -1486,23 +1486,23 @@ diễn O
 phun O
 lửa O
 nước O
-, ,
+, O
 cầu O
 Rồng B-LOC
 bắc O
 qua O
 sông O
 Hàn B-LOC
-( (
+( O
 Đà B-LOC
 Nẵng C-LOC
-) )
+) O
 được O
 nhiều O
 trang O
 giải O
 trí O
-, ,
+, O
 du O
 lịch O
 nổi O
@@ -1516,7 +1516,7 @@ mỗi O
 khi O
 nhắc O
 đến O
-. .
+. O
 
 Nhiều O
 người O
@@ -1529,14 +1529,14 @@ Lạt C-LOC
 của O
 miền O
 Trung B-LOC
-. .
+. O
 
 Chỉ O
 cách O
 Đà B-LOC
 Nẵng C-LOC
 25km O
-, ,
+, O
 nhưng O
 tại O
 đây O
@@ -1547,7 +1547,7 @@ tiết O
 lạnh O
 quanh O
 năm O
-, ,
+, O
 thậm O
 chí O
 vào O
@@ -1568,7 +1568,7 @@ xóa O
 như O
 sương O
 mờ O
-. .
+. O
 
 Khi O
 đặt O
@@ -1576,7 +1576,7 @@ chân O
 đến O
 Đà B-LOC
 Nẵng C-LOC
-, ,
+, O
 người O
 dân O
 xứ O
@@ -1592,7 +1592,7 @@ là O
 những O
 nụ O
 cười O
-. .
+. O
 
 Bất O
 kể O
@@ -1600,11 +1600,11 @@ bạn O
 đến O
 từ O
 đâu O
-, ,
+, O
 làm O
 nghề O
 gì O
-, ,
+, O
 họ O
 đều O
 ân O
@@ -1619,12 +1619,12 @@ bạn O
 muốn O
 hỏi O
 đường O
-, ,
+, O
 địa O
 chỉ O
 khách O
 sạn O
-, ,
+, O
 thậm O
 chí O
 một O
@@ -1633,7 +1633,7 @@ tài O
 xế O
 xe O
 ôm O
-, ,
+, O
 xích O
 lô O
 sẽ O
@@ -1650,16 +1650,16 @@ chân O
 đến O
 Đà B-LOC
 Nẵng C-LOC
-. .
+. O
 
 Nhìn O
 chung O
-, ,
+, O
 đến O
 với O
 Đà B-LOC
 Nẵng C-LOC
-, ,
+, O
 bạn O
 chẳng O
 bao O
@@ -1688,9 +1688,9 @@ người O
 dân O
 nơi O
 đây O
-. .
+. O
 
-( (
+( O
 Thậm O
 chí O
 bạn O
@@ -1703,7 +1703,7 @@ họ O
 nhiều O
 hơn O
 nữa O
-, ,
+, O
 vì O
 giọng O
 nói O
@@ -1715,35 +1715,35 @@ của O
 họ O
 rất O
 hay O
-! !
-) )
-. .
+! O
+) O
+. O
 
 Thành O
 phố O
 Đà B-LOC
 Nẵng C-LOC
-, ,
+, O
 nơi O
 tôi O
 sinh O
 ra O
-, ,
+, O
 nơi O
 tôi O
 sống O
-, ,
+, O
 nơi O
 tôi O
 yêu O
-. .
+. O
 
 Người O
 Đà B-LOC
 Nẵng C-LOC
 là O
 thế O
-, ,
+, O
 họ O
 luôn O
 tự O
@@ -1754,7 +1754,7 @@ thành O
 phố O
 của O
 tôi O
-, ,
+, O
 họ O
 tự O
 hào O
@@ -1772,14 +1772,14 @@ cho O
 đến O
 bây O
 giờ O
-. .
+. O
 
 Khi O
 nhắc O
 đến O
 Đà B-LOC
 Nẵng C-LOC
-, ,
+, O
 họ O
 có O
 thể O
@@ -1799,7 +1799,7 @@ bình O
 dị O
 nơi O
 đây O
-, ,
+, O
 bằng O
 chất O
 giọng O
@@ -1807,7 +1807,7 @@ miền O
 Trung B-LOC
 trìu O
 mến O
-. .
+. O
 
 Cũng O
 vì O
@@ -1821,11 +1821,11 @@ trai O
 Lê O
 Văn O
 Anh O
-, ,
+, O
 sinh O
 năm O
 1994 O
-, ,
+, O
 đã O
 tự O
 tay O
@@ -1854,14 +1854,14 @@ của O
 thành O
 phố O
 này O
-. .
+. O
 
 Anh O
 đã O
 chia O
 sẻ O
 rằng O
-: :
+: O
 Phim O
 ngắn O
 về O
@@ -1869,7 +1869,7 @@ thành O
 phố O
 Đà B-LOC
 Nẵng C-LOC
-, ,
+, O
 nơi O
 tôi O
 sinh O
@@ -1878,11 +1878,11 @@ ra O
 nơi O
 tôi O
 sống O
-, ,
+, O
 nơi O
 tôi O
 yêu O
-. .
+. O
 
 Dù O
 không O
@@ -1927,8 +1927,8 @@ hành O
 trình O
 của O
 tôi O
-! !
-. .
+! O
+. O
 
 Bãi O
 biển O
@@ -1936,7 +1936,7 @@ quyến O
 rũ O
 Mỹ O
 Khê O
-. .
+. O
 
 Được O
 thiên O
@@ -1954,7 +1954,7 @@ hoàn O
 như O
 tranh O
 vẽ O
-, ,
+, O
 do O
 vậy O
 bãi O
@@ -1982,7 +1982,7 @@ rũ O
 nhất O
 hành O
 tinh O
-. .
+. O
 
 Bãi O
 biển O
@@ -1993,7 +1993,7 @@ chiều O
 dài O
 khoảng O
 900m O
-, ,
+, O
 nổi O
 tiếng O
 với O
@@ -2001,12 +2001,12 @@ bãi O
 cát O
 trắng O
 mịn O
-, ,
+, O
 sóng O
 biển O
 ôn O
 hòa O
-, ,
+, O
 làn O
 nước O
 trong O
@@ -2023,7 +2023,7 @@ mộng O
 bao O
 quanh O
 biển O
-. .
+. O
 
 Một O
 bãi O
@@ -2031,7 +2031,7 @@ biển O
 yên O
 bình O
 nhất O
-, ,
+, O
 đẹp O
 và O
 thơ O
@@ -2047,7 +2047,7 @@ như O
 Barbados B-LOC
 hay O
 Hawaii B-LOC
-. .
+. O
 
 Rất O
 nhiều O
@@ -2084,7 +2084,7 @@ hiện O
 và O
 khang O
 trang O
-. .
+. O
 
 Xét O
 về O
@@ -2099,7 +2099,7 @@ Ung O
 thư O
 Đà B-LOC
 Nẵng C-LOC
-, ,
+, O
 nơi O
 này O
 trông O
@@ -2120,7 +2120,7 @@ viện O
 cho O
 người O
 nghèo O
-. .
+. O
 
 Và O
 cũng O
@@ -2155,7 +2155,7 @@ của O
 thành O
 phố O
 này O
-. .
+. O
 
 Bởi O
 Đà B-LOC
@@ -2175,7 +2175,7 @@ ngách O
 trong O
 thành O
 phố O
-. .
+. O
 
 Chưa O
 có O
@@ -2196,14 +2196,14 @@ biệt O
 như O
 thế O
 này O
-. .
+. O
 
 Bắt O
 đầu O
 từ O
 ngày O
 10/7/2014 O
-, ,
+, O
 thành O
 phố O
 Đà B-LOC
@@ -2242,7 +2242,7 @@ internet O
 và O
 xuyên O
 suốt O
-. .
+. O
 
 Khỏi O
 phải O
@@ -2263,7 +2263,7 @@ Nam C-LOC
 như O
 thế O
 nào O
-. .
+. O
 
 Hà B-LOC
 Nội C-LOC
@@ -2271,7 +2271,7 @@ có O
 phở O
 có O
 bún O
-, ,
+, O
 Sài B-LOC
 Gòn C-LOC
 nổi O
@@ -2279,13 +2279,13 @@ lên O
 với O
 bánh O
 tráng O
-, ,
+, O
 bánh O
 canh O
 hay O
 cơm O
 tấm O
-, ,
+, O
 thì O
 Đà B-LOC
 Nẵng C-LOC
@@ -2304,12 +2304,12 @@ nhỏ O
 của O
 ẩm O
 thực O
-. .
+. O
 
 Ở O
 Đà B-LOC
 Nẵng C-LOC
-, ,
+, O
 du O
 khách O
 có O
@@ -2323,7 +2323,7 @@ nhất O
 như O
 bánh O
 bèo O
-, ,
+, O
 bánh O
 nậm O
 với O
@@ -2332,7 +2332,7 @@ vài O
 nghìn O
 / /
 chiếc O
-, ,
+, O
 cho O
 đến O
 những O
@@ -2341,7 +2341,7 @@ bún O
 mắm O
 ngon O
 lành O
-, ,
+, O
 bún O
 thịt O
 nướng O
@@ -2350,7 +2350,7 @@ lừng O
 chỉ O
 từ O
 15.000 O
-- -
+- O
 20.000 O
 đồng O
 ; ;
@@ -2373,7 +2373,7 @@ khắp O
 những O
 con O
 phố O
-. .
+. O
 
 Và O
 hãy O
@@ -2387,7 +2387,7 @@ hải O
 sản O
 ở O
 đây O
-! !
+! O
 Hải O
 sản O
 tươi O
@@ -2398,7 +2398,7 @@ vừa O
 bắt O
 từ O
 biển O
-, ,
+, O
 lại O
 được O
 chế O
@@ -2412,7 +2412,7 @@ của O
 người O
 miền O
 Trung B-LOC
-. .
+. O
 
 Có O
 lẽ O
@@ -2423,7 +2423,7 @@ này O
 mà O
 thậm O
 chí O
-, ,
+, O
 nhiều O
 người O
 chỉ O
@@ -2440,7 +2440,7 @@ ngày O
 được O
 ăn O
 ngon O
-! !
+! O
 
 Thế O
 nhưng O
@@ -2453,7 +2453,7 @@ một O
 câu O
 chuyện O
 khác O
-, ,
+, O
 dù O
 là O
 cuối O
@@ -2469,7 +2469,7 @@ khách O
 đến O
 tắm O
 biển O
-, ,
+, O
 thì O
 bãi O
 biển O
@@ -2481,14 +2481,14 @@ trạng O
 thái O
 sạch O
 sẽ O
-, ,
+, O
 không O
 rác O
-, ,
+, O
 không O
 vỏ O
 cua O
-, ,
+, O
 vỏ O
 ốc O
 tràn O
@@ -2500,7 +2500,7 @@ biển O
 du O
 lịch O
 khác O
-. .
+. O
 
 Ở O
 sân O
@@ -2509,7 +2509,7 @@ quốc O
 tế O
 Đà B-LOC
 Nẵng C-LOC
-, ,
+, O
 bạn O
 có O
 thể O
@@ -2534,11 +2534,11 @@ nhạt O
 nhẽo O
 được O
 rồi O
-. .
+. O
 
 Chợ B-LOC
 Cồn C-LOC
-- -
+- O
 nơi O
 để O
 thưởng O
@@ -2561,7 +2561,7 @@ trên O
 Ông B-LOC
 Ích C-LOC
 Khiêm C-LOC
-, ,
+, O
 giữa O
 trục O
 trung O
@@ -2570,7 +2570,7 @@ thành O
 phố O
 Đà B-LOC
 Nẵng C-LOC
-, ,
+, O
 Chợ B-LOC
 Cồn C-LOC
 được O
@@ -2586,7 +2586,7 @@ và O
 lâu O
 đời O
 nhất O
-. .
+. O
 
 Được O
 xây O
@@ -2594,7 +2594,7 @@ dựng O
 từ O
 năm O
 1940 O
-, ,
+, O
 do O
 nằm O
 trên O
@@ -2615,16 +2615,16 @@ miệng O
 gọi O
 thành O
 tên O
-: :
+: O
 Chợ B-LOC
 Cồn C-LOC
-. .
+. O
 
 Và O
 bạn O
 biết O
 không O
-, ,
+, O
 nếu O
 bạn O
 đã O
@@ -2632,7 +2632,7 @@ bạn O
 Chợ B-LOC
 Cồn C-LOC
 rồi O
-, ,
+, O
 đừng O
 ngại O
 để O
@@ -2650,7 +2650,7 @@ món O
 ăn O
 ở O
 đây O
-. .
+. O
 
 Đồ O
 ăn O
@@ -2661,7 +2661,7 @@ từ O
 những O
 đường O
 phố O
-, ,
+, O
 từ O
 những O
 khu O
@@ -2671,7 +2671,7 @@ người O
 dân O
 bản O
 địa O
-, ,
+, O
 và O
 Chợ B-LOC
 Cồn C-LOC
@@ -2681,7 +2681,7 @@ một O
 nơi O
 như O
 vậy O
-. .
+. O
 
 Hội O
 Doanh O
@@ -2706,7 +2706,7 @@ mái O
 như O
 ở O
 nhà O
-- -
+- O
 Comfort O
 as O
 home O
@@ -2732,7 +2732,7 @@ dụng O
 toilet O
 miễn O
 phí O
-. .
+. O
 
 Một O
 việc O
@@ -2744,7 +2744,7 @@ lại O
 không O
 hề O
 nhỏ O
-, ,
+, O
 vì O
 đã O
 thực O
@@ -2763,11 +2763,11 @@ minh O
 và O
 tinh O
 tế O
-. .
+. O
 
 Một O
 năm O
-, ,
+, O
 người O
 ta O
 có O
@@ -2777,7 +2777,7 @@ thể O
 Nẵng C-LOC
 một O
 lần O
-, ,
+, O
 nhưng O
 cũng O
 có O
@@ -2785,30 +2785,30 @@ thể O
 đi O
 hai O
 lần O
-, ,
+, O
 ba O
 lần O
 chỉ O
 bởi O
 vì O
-, ,
+, O
 ở O
 Đà B-LOC
 Nẵng C-LOC
 có O
 nhiều O
-... ...
+... O
 sự O
 kiện O
 vui O
 quá O
-. .
+. O
 
 Chưa O
 kể O
 đến O
 việc O
-, ,
+, O
 cuộc O
 thi O
 Iron O
@@ -2821,7 +2821,7 @@ chức O
 tại O
 Đà B-LOC
 Nẵng C-LOC
-. .
+. O
 
 Các O
 sự O
@@ -2836,7 +2836,7 @@ Nẵng C-LOC
 rất O
 đa O
 dạng O
-, ,
+, O
 cái O
 này O
 hợp O
@@ -2844,14 +2844,14 @@ với O
 cả O
 gia O
 đình O
-, ,
+, O
 cái O
 kia O
 hợp O
 với O
 người O
 trẻ O
-, ,
+, O
 cái O
 lại O
 hợp O
@@ -2861,7 +2861,7 @@ ai O
 ưa O
 phiêu O
 lưu O
-. .
+. O
 
 Tất O
 cả O
@@ -2873,7 +2873,7 @@ Nẵng C-LOC
 không O
 chỉ O
 đẹp O
-, ,
+, O
 thân O
 thiện O
 mà O
@@ -2890,7 +2890,7 @@ ngưng O
 nghỉ O
 niềm O
 vui O
-. .
+. O
 
 Nha B-LOC
 Trang C-LOC
@@ -2906,7 +2906,7 @@ biển O
 của O
 Việt B-LOC
 Nam C-LOC
-, ,
+, O
 nổi O
 tiếng O
 với O
@@ -2915,7 +2915,7 @@ hòn O
 đảo O
 thơ O
 mộng O
-, ,
+, O
 bãi O
 biển O
 xanh O
@@ -2932,7 +2932,7 @@ nơi O
 trên O
 thế O
 giới O
-. .
+. O
 
 Thành O
 phố O
@@ -2946,7 +2946,7 @@ của O
 tỉnh O
 Khánh B-LOC
 Hòa C-LOC
-, ,
+, O
 thuộc O
 miền O
 duyên O
@@ -2956,7 +2956,7 @@ Trung C-LOC
 Bộ C-LOC
 Việt C-LOC
 Nam C-LOC
-. .
+. O
 
 Vịnh O
 biển O
@@ -2972,7 +2972,7 @@ biển O
 nhất O
 thế O
 giới O
-, ,
+, O
 đó O
 là O
 món O
@@ -2988,7 +2988,7 @@ cho O
 vùng O
 đất O
 này O
-. .
+. O
 
 Tuyến O
 đường O
@@ -2999,16 +2999,16 @@ dọc O
 theo O
 bờ O
 biển O
-, ,
+, O
 là O
 con O
 đường O
 lớn O
 nhất O
-, ,
+, O
 đẹp O
 nhất O
-, ,
+, O
 cũng O
 là O
 nơi O
@@ -3020,7 +3020,7 @@ thành O
 phố O
 Nha B-LOC
 Trang C-LOC
-, ,
+, O
 trên O
 tuyến O
 đường O
@@ -3030,10 +3030,10 @@ rất O
 nhiều O
 khách O
 sạn O
-, ,
+, O
 quán O
 ăn O
-... ...
+... O
 bên O
 kia O
 đường O
@@ -3046,7 +3046,7 @@ của O
 Tp O
 Nha B-LOC
 Trang C-LOC
-. .
+. O
 
 Khách O
 sạn O
@@ -3066,13 +3066,13 @@ nhu O
 cầu O
 nghỉ O
 dưỡng O
-, ,
+, O
 tắm O
 biển O
 của O
 du O
 khách O
-. .
+. O
 
 Đi O
 du O
@@ -3091,7 +3091,7 @@ khu O
 vực O
 sẽ O
 nghỉ O
-, ,
+, O
 sau O
 đó O
 đến O
@@ -3100,7 +3100,7 @@ sao O
 và O
 giá O
 tiền O
-. .
+. O
 
 Khu O
 vực O
@@ -3115,12 +3115,12 @@ rất O
 nhiều O
 nhà O
 nghỉ O
-, ,
+, O
 khách O
 sạn O
-, ,
+, O
 resort O
-. .
+. O
 
 Đây O
 là O
@@ -3128,13 +3128,13 @@ khu O
 vực O
 sầm O
 uất O
-, ,
+, O
 náo O
 nhiệt O
 nhất O
 Nha B-LOC
 Trang C-LOC
-, ,
+, O
 xung O
 quanh O
 có O
@@ -3147,7 +3147,7 @@ lịch O
 của O
 Nha B-LOC
 Trang C-LOC
-, ,
+, O
 nổi O
 tiếng O
 nhất O
@@ -3160,7 +3160,7 @@ Nha B-LOC
 Trang C-LOC
 rất O
 đẹp O
-. .
+. O
 
 Phần O
 lớn O
@@ -3186,16 +3186,16 @@ vụ O
 rất O
 phát O
 triển O
-, ,
+, O
 có O
 nhiều O
 nhà O
 hàng O
-, ,
+, O
 quán O
 ăn O
 ngon O
-, ,
+, O
 nghỉ O
 ở O
 đây O
@@ -3218,7 +3218,7 @@ tiếng O
 của O
 Nha B-LOC
 Trang C-LOC
-. .
+. O
 
 Bãi O
 Dài O
@@ -3227,7 +3227,7 @@ thành O
 phố O
 Cam B-LOC
 Ranh C-LOC
-, ,
+, O
 Bãi O
 Dài O
 là O
@@ -3238,20 +3238,20 @@ nhất O
 ở O
 Khánh B-LOC
 Hòa C-LOC
-, ,
+, O
 có O
 nước O
 trong O
 xanh O
-, ,
+, O
 bãi O
 biển O
 thoai O
 thoải O
-, ,
+, O
 cát O
 mịn O
-. .
+. O
 
 Khu O
 vực O
@@ -3268,7 +3268,7 @@ từ O
 sao O
 trở O
 lên O
-, ,
+, O
 nằm O
 dọc O
 theo O
@@ -3276,7 +3276,7 @@ bờ O
 Biển O
 Bãi B-LOC
 Dài C-LOC
-, ,
+, O
 những O
 khu O
 Resort O
@@ -3293,7 +3293,7 @@ khuôn O
 viên O
 rất O
 rộng O
-. .
+. O
 
 Ở
 Khu O
@@ -3312,7 +3312,7 @@ xa O
 bãi O
 biển O
 hơn O
-, ,
+, O
 nhưng O
 cũng O
 rất O
@@ -3324,7 +3324,7 @@ ra O
 tới O
 bãi O
 biển O
-. .
+. O
 
 Những O
 hòn O
@@ -3345,19 +3345,19 @@ lịch O
 là O
 Hòn B-LOC
 Tre C-LOC
-, ,
+, O
 Hòn B-LOC
 Miễu C-LOC
-, ,
+, O
 Hòn B-LOC
 Tằm C-LOC
-, ,
+, O
 Hòn B-LOC
 Một C-LOC
-, ,
+, O
 Hòn B-LOC
 Mun C-LOC
-... ...
+... O
 
 Nổi O
 tiếng O
@@ -3370,13 +3370,13 @@ là O
 quần O
 thể O
 resort O
-, ,
+, O
 khách O
 sạn O
-, ,
+, O
 biệt O
 thự O
-, ,
+, O
 khu O
 vui O
 chơi O
@@ -3388,11 +3388,11 @@ trên O
 đảo O
 Hòn B-LOC
 Tre C-LOC
-. .
+. O
 
 Khách O
 Sạn O
-, ,
+, O
 Resort O
 Bãi O
 Biển O
@@ -3419,7 +3419,7 @@ trắng O
 tinh O
 chạy O
 dài O
-, ,
+, O
 nước O
 biển O
 trong O
@@ -3430,14 +3430,14 @@ dưới O
 những O
 hàng O
 dương O
-, ,
+, O
 ngăn O
 cách O
 đất O
 liền O
 với O
 biển O
-. .
+. O
 
 Dốc B-LOC
 Lết C-LOC
@@ -3447,7 +3447,7 @@ nằm O
 phận O
 Ninh B-LOC
 Hòa C-LOC
-, ,
+, O
 cách O
 Nha B-LOC
 Trang C-LOC
@@ -3456,7 +3456,7 @@ chừng O
 về O
 phía O
 bắc O
-. .
+. O
 
 Vịnh B-LOC
 Ninh C-LOC
@@ -3473,7 +3473,7 @@ với O
 bờ O
 biển O
 dài O
-, ,
+, O
 khu O
 vực O
 này O
@@ -3491,7 +3491,7 @@ dọc O
 theo O
 bờ O
 biển O
-. .
+. O
 
 Du O
 lịch O
@@ -3519,7 +3519,7 @@ hòn O
 ngoài O
 khơi O
 xa O
-, ,
+, O
 dưới O
 đây O
 là O
@@ -3533,7 +3533,7 @@ nhất O
 ở O
 Nha B-LOC
 Trang C-LOC
-. .
+. O
 
 Đi O
 du O
@@ -3554,7 +3554,7 @@ du O
 lịch O
 dưới O
 đây O
-. .
+. O
 
 Đây O
 là O
@@ -3562,7 +3562,7 @@ khu O
 vực O
 đẹp O
 nhất O
-, ,
+, O
 sầm O
 uất O
 và O
@@ -3571,7 +3571,7 @@ nhiệt O
 nhất O
 Nha B-LOC
 Trang C-LOC
-, ,
+, O
 hầu O
 hết O
 du O
@@ -3603,7 +3603,7 @@ mình O
 khu O
 vực O
 này O
-. .
+. O
 
 Bãi O
 Biển O
@@ -3611,7 +3611,7 @@ Trung O
 Tâm O
 Nha B-LOC
 Trang C-LOC
-: :
+: O
 Bải O
 biển O
 trung O
@@ -3622,24 +3622,24 @@ dọc O
 đường B-LOC
 Trần C-LOC
 Phú C-LOC
-, ,
+, O
 bãi O
 biển O
 thoải O
 dài O
 tuyệt O
 đẹp O
-, ,
+, O
 nước O
 trong O
 xanh O
-, ,
+, O
 luôn O
 tràn O
 ngập O
 ánh O
 nắng O
-, ,
+, O
 đây O
 là O
 nơi O
@@ -3655,18 +3655,18 @@ phố O
 và O
 du O
 khách O
-. .
+. O
 
 Tháp B-LOC
 Trầm C-LOC
 Hương C-LOC
-: :
+: O
 Tọa O
 lạc O
 bên O
 bờ O
 biển O
-, ,
+, O
 là O
 điểm O
 nhấn O
@@ -3677,7 +3677,7 @@ trung O
 tâm O
 Nha B-LOC
 Trang C-LOC
-, ,
+, O
 địa O
 điểm O
 này O
@@ -3690,7 +3690,7 @@ khách O
 vào O
 mỗi O
 tối O
-, ,
+, O
 bạn O
 đừng O
 bỏ O
@@ -3708,7 +3708,7 @@ với O
 ngọn O
 tháp O
 này O
-. .
+. O
 
 Chợ O
 Đêm O
@@ -3716,7 +3716,7 @@ Và O
 Phố O
 Đi O
 Bộ O
-: :
+: O
 tọa O
 lạc O
 bên O
@@ -3728,10 +3728,10 @@ hóa O
 46 O
 Trần O
 Phú O
-, ,
+, O
 Nha B-LOC
 Trang C-LOC
-, ,
+, O
 do O
 Công O
 ty O
@@ -3741,12 +3741,12 @@ làm O
 chủ O
 đầu O
 tư O
-. .
+. O
 
 XQ B-LOC
 Nha C-LOC
 Trang C-LOC
-: :
+: O
 Nằm O
 ở O
 một O
@@ -3758,7 +3758,7 @@ trên O
 đường B-LOC
 Trần C-LOC
 Phú C-LOC
-, ,
+, O
 Trung O
 tâm O
 Nghệ O
@@ -3787,22 +3787,22 @@ khép O
 kín O
 đặc O
 biệt O
-. .
+. O
 
 Tháp B-LOC
 Bà C-LOC
 Ponagar C-LOC
-: :
+: O
 Khu O
 di O
 tích O
 Tháp B-LOC
 Bà C-LOC
 Ponagar C-LOC
-, ,
+, O
 Nha B-LOC
 Trang C-LOC
-- -
+- O
 Khánh B-LOC
 Hoà C-LOC
 là O
@@ -3833,7 +3833,7 @@ miền O
 Trung O
 Việt B-LOC
 Nam C-LOC
-, ,
+, O
 được O
 xây O
 dựng O
@@ -3847,16 +3847,16 @@ thứ O
 thế O
 kỉ O
 13 O
-, ,
+, O
 thời O
 kỳ O
 đạo O
 Hindu O
-( (
+( O
 Ấn B-LOC
 Độ C-LOC
 giáo O
-) )
+) O
 đang O
 cường O
 thịnh O
@@ -3865,12 +3865,12 @@ vương O
 quốc O
 Chăm B-LOC
 cổ O
-. .
+. O
 
 Suối B-LOC
 Khoáng C-LOC
 Nóng C-LOC
-: :
+: O
 Đây O
 là O
 một O
@@ -3881,7 +3881,7 @@ chăm O
 sóc O
 sức O
 khoẻ O
-, ,
+, O
 làm O
 đẹp O
 độc O
@@ -3894,10 +3894,10 @@ ngâm O
 tắm O
 bùn O
 khoáng O
-, ,
+, O
 khoáng O
 nóng O
-, ,
+, O
 hồ O
 bơi O
 khoáng O
@@ -3908,7 +3908,7 @@ phun O
 mưa O
 khoáng O
 nóng O
-. .
+. O
 
 Suối O
 nằm O
@@ -3917,7 +3917,7 @@ lưng O
 Thác B-LOC
 Bà C-LOC
 Ponagar C-LOC
-, ,
+, O
 cách O
 trung O
 tâm O
@@ -3928,12 +3928,12 @@ khoảng O
 về O
 phía O
 Bắc O
-. .
+. O
 
 Chùa B-LOC
 Long C-LOC
 Sơn C-LOC
-: :
+: O
 hay O
 còn O
 gọi O
@@ -3948,7 +3948,7 @@ là O
 Đăng O
 Long O
 Tự O
-. .
+. O
 
 Ngôi O
 chùa O
@@ -3962,14 +3962,14 @@ hơn O
 một O
 trăm O
 năm O
-, ,
+, O
 trải O
 qua O
 nhiều O
 lần O
 trùng O
 tu O
-, ,
+, O
 và O
 đến O
 nay O
@@ -3982,7 +3982,7 @@ nhất O
 tỉnh O
 Khánh B-LOC
 Hòa C-LOC
-, ,
+, O
 chùa O
 có O
 tượng O
@@ -3990,12 +3990,12 @@ Phật O
 Trắng O
 khổng O
 lồ O
-. .
+. O
 
 Dinh B-LOC
 Bảo C-LOC
 Đại C-LOC
-: :
+: O
 là O
 một O
 danh O
@@ -4021,7 +4021,7 @@ làm O
 nơi O
 làm O
 việc O
-, ,
+, O
 nghỉ O
 ngơi O
 trong O
@@ -4040,7 +4040,7 @@ Quốc O
 gia O
 Việt B-LOC
 Nam C-LOC
-. .
+. O
 
 Các O
 dinh O
@@ -4055,7 +4055,7 @@ Pháp B-LOC
 rất O
 hài O
 hòa O
-, ,
+, O
 nằm O
 rải O
 rác O
@@ -4067,13 +4067,13 @@ thắng O
 của O
 Việt B-LOC
 Nam C-LOC
-. .
+. O
 
 Bãi B-LOC
 Đá C-LOC
 Hòn C-LOC
 Chồng C-LOC
-: :
+: O
 là O
 một O
 trong O
@@ -4087,7 +4087,7 @@ dẫn O
 của O
 Nha B-LOC
 Trang C-LOC
-. .
+. O
 
 Bất O
 cứ O
@@ -4113,11 +4113,11 @@ thể O
 đá O
 Hòn B-LOC
 Chồng C-LOC
-. .
+. O
 
 Chợ B-LOC
 Đầm C-LOC
-: :
+: O
 Có O
 người O
 đã O
@@ -4148,7 +4148,7 @@ với O
 các O
 khu O
 chợ O
-. .
+. O
 
 Chợ B-LOC
 Đầm C-LOC
@@ -4180,19 +4180,19 @@ của O
 những O
 du O
 khách O
-. .
+. O
 
 Viện B-LOC
 Hải C-LOC
 Dương C-LOC
 Học C-LOC
-: :
+: O
 nằm O
 bên O
 cảng O
 Cầu B-LOC
 Đá C-LOC
-, ,
+, O
 thành O
 phố O
 biển O
@@ -4210,14 +4210,14 @@ hàng O
 Đông B-LOC
 Nam C-LOC
 Á C-LOC
-. .
+. O
 
 Đây O
 là O
 nơi O
 lưu O
 giữ O
-, ,
+, O
 trưng O
 bày O
 hàng O
@@ -4226,12 +4226,12 @@ nghìn O
 mẫu O
 sinh O
 vật O
-, ,
+, O
 động O
 thực O
 vật O
 biển O
-. .
+. O
 
 Đến O
 thăm O
@@ -4239,7 +4239,7 @@ Viện B-LOC
 Hải C-LOC
 Dương C-LOC
 Học C-LOC
-, ,
+, O
 bạn O
 sẽ O
 được O
@@ -4266,7 +4266,7 @@ biển O
 và O
 nước O
 ngọt O
-, ,
+, O
 bên O
 cạnh O
 đó O
@@ -4281,26 +4281,26 @@ thả O
 trong O
 bể O
 kính O
-. .
+. O
 
 Từ O
 trung O
 tâm O
 thành O
 phố O
-, ,
+, O
 chạy O
 theo O
 đường B-LOC
 Trần C-LOC
 Phú C-LOC
-, ,
+, O
 qua O
 cây O
 cầu O
 cùng O
 tên O
-, ,
+, O
 về O
 hướng O
 Đông O
@@ -4315,19 +4315,19 @@ khác O
 của O
 Nha B-LOC
 Trang C-LOC
-: :
+: O
 Bãi B-LOC
 Dương C-LOC
 và O
 bãi O
 Hòn B-LOC
 Chồng C-LOC
-. .
+. O
 
 Vinpearl B-LOC
 Nha C-LOC
 Trang C-LOC
-: :
+: O
 được O
 xây O
 dựng O
@@ -4335,7 +4335,7 @@ trên O
 đảo O
 Hòn B-LOC
 Tre C-LOC
-, ,
+, O
 trong O
 vịnh O
 biển O
@@ -4351,7 +4351,7 @@ biển O
 nhất O
 thế O
 giới O
-, ,
+, O
 Vinpearl B-LOC
 Nha C-LOC
 Trang C-LOC
@@ -4363,7 +4363,7 @@ vẻ O
 đẹp O
 mê O
 hồn O
-, ,
+, O
 lãng O
 mạn O
 và O
@@ -4374,17 +4374,17 @@ thiên O
 nhiên O
 nơi O
 đây O
-. .
+. O
 
 Không O
 chỉ O
 có O
 biển O
 xanh O
-, ,
+, O
 cát O
 trắng O
-, ,
+, O
 nắng O
 vàng O
 cùng O
@@ -4394,7 +4394,7 @@ mát O
 mẻ O
 quanh O
 năm O
-, ,
+, O
 với O
 việc O
 tận O
@@ -4409,7 +4409,7 @@ biển O
 đảo O
 riêng O
 biệt O
-, ,
+, O
 các O
 nhà O
 thiết O
@@ -4426,10 +4426,10 @@ tổ O
 hợp O
 du O
 lịch O
-, ,
+, O
 vui O
 chơi O
-, ,
+, O
 nghỉ O
 dưỡng O
 đẳng O
@@ -4438,13 +4438,13 @@ hàng O
 đầu O
 Việt B-LOC
 Nam C-LOC
-. .
+. O
 
 Bãi O
 Biển O
 Bãi B-LOC
 Dài C-LOC
-: :
+: O
 Là O
 bãi O
 biển O
@@ -4452,14 +4452,14 @@ biển O
 nhất O
 Nha B-LOC
 Trang C-LOC
-, ,
+, O
 một O
 lần O
 đến O
 với O
 Bãi B-LOC
 Dài C-LOC
-, ,
+, O
 du O
 khách O
 sẽ O
@@ -4491,7 +4491,7 @@ con O
 người O
 khai O
 phá O
-. .
+. O
 
 Cách O
 Nha B-LOC
@@ -4508,7 +4508,7 @@ bãi O
 biển O
 Dốc B-LOC
 Lết C-LOC
-. .
+. O
 Bãi O
 biển O
 hình O
@@ -4521,7 +4521,7 @@ bờ O
 vịnh O
 Vân B-LOC
 Phong C-LOC
-, ,
+, O
 tuyệt O
 đẹp O
 với O
@@ -4529,11 +4529,11 @@ bãi O
 cát O
 trắng O
 phau O
-, ,
+, O
 nước O
 trong O
 vắt O
-, ,
+, O
 sóng O
 lăn O
 tăn O
@@ -4541,7 +4541,7 @@ xô O
 vào O
 bờ O
 cát O
-. .
+. O
 
 Hàng O
 dương O
@@ -4564,7 +4564,7 @@ biệt O
 của O
 Dốc B-LOC
 Lết C-LOC
-. .
+. O
 
 Có O
 một O
@@ -4581,7 +4581,7 @@ và O
 hai O
 hòn O
 đảo O
-, ,
+, O
 tạo O
 ra O
 vịnh O
@@ -4592,7 +4592,7 @@ phong O
 cảnh O
 tuyệt O
 đẹp O
-. .
+. O
 
 Cùng O
 với O
@@ -4606,18 +4606,18 @@ như O
 còn O
 nguyên O
 vẹn O
-, ,
+, O
 những O
 rạn O
 san O
 hô O
 đa O
 sắc O
-, ,
+, O
 đẹp O
 sững O
 sờ O
-, ,
+, O
 có O
 dấu O
 tích O
@@ -4629,12 +4629,12 @@ khu O
 rừng O
 ngập O
 mặn
-, ,
+, O
 hàng O
 trăm O
 sinh O
 cảnh O
-, ,
+, O
 muông O
 thú O
 đặc O
@@ -4645,7 +4645,7 @@ chục O
 ngàn O
 loài O
 thuỷ O
-, ,
+, O
 hải O
 sản O
 quý O
@@ -4667,7 +4667,7 @@ sinh O
 thái O
 rõ O
 nét O
-. .
+. O
 
 Cách O
 thành O
@@ -4677,14 +4677,14 @@ Nha B-LOC
 Trang C-LOC
 khoảng O
 60km O
-, ,
+, O
 nằm O
 trên O
 bán O
 đảo O
 Hòn B-LOC
 Mèo C-LOC
-, ,
+, O
 vịnh O
 Ninh B-LOC
 Vân C-LOC
@@ -4696,14 +4696,14 @@ sơ O
 và O
 thuần O
 khiết O
-. .
+. O
 
 Thuộc O
 thành O
 phố O
 Cam B-LOC
 Ranh C-LOC
-, ,
+, O
 đảo O
 Bình B-LOC
 Ba C-LOC
@@ -4730,7 +4730,7 @@ còn O
 khá O
 hoang O
 sơ O
-. .
+. O
 
 Thuộc O
 địa O
@@ -4743,7 +4743,7 @@ thành O
 phố O
 Cam B-LOC
 Ranh C-LOC
-, ,
+, O
 nằm O
 ẩn O
 mình O
@@ -4759,7 +4759,7 @@ Tiên C-LOC
 – –
 Vĩnh B-LOC
 Hy C-LOC
-. .
+. O
 
 Cách O
 thành O
@@ -4773,7 +4773,7 @@ hướng O
 Bắc O
 – –
 Nam O
-. .
+. O
 
 Xuất O
 phát O
@@ -4789,7 +4789,7 @@ lộ O
 km O
 số O
 1.525 O
-, ,
+, O
 du O
 khách O
 sẽ O
@@ -4804,7 +4804,7 @@ vào O
 khoảng O
 10 O
 km O
-, ,
+, O
 bãi O
 biển O
 Bình B-LOC
@@ -4820,13 +4820,13 @@ với O
 vẻ O
 hoang O
 sơ O
-, ,
+, O
 bình O
 yên O
 và O
 tĩnh O
 lặng O
-. .
+. O
 
 Là O
 một O
@@ -4836,7 +4836,7 @@ gồm O
 hòn O
 đảo O
 nhỏ O
-, ,
+, O
 nằm O
 chơi O
 vơi O
@@ -4847,11 +4847,11 @@ thuộc O
 vịnh O
 Vân B-LOC
 Phong C-LOC
-, ,
+, O
 tỉnh O
 Khánh B-LOC
 Hòa C-LOC
-. .
+. O
 
 Đảo B-LOC
 Điệp C-LOC
@@ -4862,7 +4862,7 @@ sơ O
 nhưng O
 tuyệt O
 đẹp O
-, ,
+, O
 nơi O
 đây O
 nổi O
@@ -4875,7 +4875,7 @@ giữa O
 biển O
 độc O
 đáo O
-. .
+. O
 
 Hòn B-LOC
 Mun C-LOC
@@ -4893,7 +4893,7 @@ hô O
 đẹp O
 lộng O
 lẫy O
-, ,
+, O
 đã O
 được O
 Quỹ O
@@ -4903,9 +4903,9 @@ hoang O
 dã O
 thế O
 giới O
-( (
+( O
 WWF O
-) )
+) O
 đánh O
 giá O
 là O
@@ -4921,12 +4921,12 @@ nhất O
 ở O
 Việt B-LOC
 Nam C-LOC
-. .
+. O
 
 Đến O
 Hòn B-LOC
 Mun C-LOC
-, ,
+, O
 du O
 khách O
 không O
@@ -4937,19 +4937,19 @@ những O
 hoạt O
 động O
 như O
-: :
+: O
 Bar O
 nổi O
 trên O
 biển O
-, ,
+, O
 lặn O
 biển O
 khám O
 phá O
 san O
 hô O
-, ,
+, O
 thuyền O
 đáy O
 kính O
@@ -4962,7 +4962,7 @@ tích O
 khoảng O
 110 O
 ha O
-, ,
+, O
 cách O
 thành O
 phố O
@@ -4973,7 +4973,7 @@ về O
 phía O
 Đông O
 Nam O
-. .
+. O
 
 Từ O
 Hòn B-LOC
@@ -4998,7 +4998,7 @@ Ranh C-LOC
 ở O
 phía O
 Nam O
-. .
+. O
 
 Trên O
 đảo O
@@ -5013,41 +5013,41 @@ trí O
 cho O
 khách O
 như O
-: :
+: O
 chèo O
 thuyền O
-, ,
+, O
 câu O
 cá O
-, ,
+, O
 cưỡi O
 ngựa O
 quanh O
 đảo O
-, ,
+, O
 cưỡi O
 voi O
-, ,
+, O
 xem O
 xiếc O
 voi O
-... ...
+... O
 
 Nằm O
 trên O
 đảo O
 Bồng B-LOC
 Nguyên C-LOC
-( (
+( O
 đảo O
 Cá B-LOC
-) )
-, ,
+) O
+, O
 thuộc O
 vịnh O
 Nha B-LOC
 Trang C-LOC
-. .
+. O
 
 Khu O
 du O
@@ -5061,7 +5061,7 @@ bán O
 đảo O
 Hòn B-LOC
 Hèo C-LOC
-, ,
+, O
 cách O
 trung O
 tâm O
@@ -5074,7 +5074,7 @@ về O
 phía O
 Đông O
 Bắc O
-. .
+. O
 
 Núi B-LOC
 Hòn C-LOC
@@ -5087,7 +5087,7 @@ với O
 mực O
 nước O
 biển O
-, ,
+, O
 ngọn O
 thác O
 cao O
@@ -5097,20 +5097,20 @@ nhất O
 cao O
 trên O
 350m O
-, ,
+, O
 mỗi O
 thác O
 có O
 một O
 dáng O
 hình O
-, ,
+, O
 một O
 vẻ O
 đẹp O
 khác O
 nhau O
-. .
+. O
 
 Tour O
 tham O
@@ -5131,7 +5131,7 @@ nào O
 ở O
 Nha B-LOC
 Trang C-LOC
-, ,
+, O
 đây O
 là O
 một O
@@ -5152,7 +5152,7 @@ du O
 lịch O
 địa O
 phương O
-, ,
+, O
 nhằm O
 giúp O
 cho O
@@ -5173,25 +5173,25 @@ trong O
 Vịnh B-LOC
 Nha C-LOC
 Trang C-LOC
-. .
+. O
 
 Tour O
 gồm O
 có O
 Hòn B-LOC
 Mun C-LOC
-, ,
+, O
 Hòn B-LOC
 Một C-LOC
-, ,
+, O
 Bãi B-LOC
 Tranh C-LOC
-, ,
+, O
 Hồ B-LOC
 Cá C-LOC
 Trí C-LOC
 Nguyên C-LOC
-, ,
+, O
 du O
 khách O
 sẽ O
@@ -5200,7 +5200,7 @@ tha O
 hồ O
 tắm O
 biển O
-, ,
+, O
 lặn O
 biển O
 và O
@@ -5214,7 +5214,7 @@ biển O
 khơi O
 mênh O
 mông O
-. .
+. O
 Thành O
 phố O
 Đà B-LOC
@@ -5226,34 +5226,34 @@ của O
 tỉnh O
 Lâm B-LOC
 Đồng C-LOC
-, ,
+, O
 nằm O
 trên O
 cao O
 nguyên O
 Lâm B-LOC
 Viên C-LOC
-, ,
+, O
 thuộc O
 vùng O
 Tây B-LOC
 Nguyên C-LOC
-, ,
+, O
 Việt B-LOC
 Nam C-LOC
-. .
+. O
 
 Ngoài O
 những O
 khu O
 vui O
 chơi O
-, ,
+, O
 tham O
 quan O
 tính O
 phí O
-, ,
+, O
 thành O
 phố O
 Đà B-LOC
@@ -5275,7 +5275,7 @@ chào O
 đón O
 du O
 khách O
-. .
+. O
 
 Đà B-LOC
 Lạt C-LOC
@@ -5284,23 +5284,23 @@ tại O
 thôn O
 Suối B-LOC
 Cạn C-LOC
-, ,
+, O
 xã B-LOC
 Lát C-LOC
-, ,
+, O
 huyện O
 Lạc B-LOC
 Dương C-LOC
-, ,
+, O
 tỉnh O
 Lâm B-LOC
 Đồng C-LOC
-. .
+. O
 
 Từ O
 Đà B-LOC
 Lạt C-LOC
-, ,
+, O
 bạn O
 đi O
 theo O
@@ -5313,14 +5313,14 @@ cung O
 Trần O
 Hưng O
 Đạo O
-- -
+- O
 Hùng O
 Vương O
 về O
 hướng O
 Trại B-LOC
 Mát C-LOC
-. .
+. O
 
 Cách O
 trung O
@@ -5329,7 +5329,7 @@ thành O
 phố O
 25 O
 km O
-, ,
+, O
 đồi O
 chè O
 Cầu B-LOC
@@ -5347,17 +5347,17 @@ ghé O
 thăm O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Nhà O
 Thiếu O
 nhi O
-( (
+( O
 13 O
 Đinh O
 Tiên O
 Hoàng O
-) )
+) O
 có O
 lẽ O
 là O
@@ -5375,7 +5375,7 @@ yêu O
 mến O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Tọa O
 lạc O
@@ -5387,7 +5387,7 @@ Nguyễn O
 Thị O
 Minh O
 Khai O
-, ,
+, O
 chợ O
 Đà B-LOC
 Lạt C-LOC
@@ -5400,10 +5400,10 @@ khách O
 đến O
 tham O
 quan O
-, ,
+, O
 mua O
 sắm O
-. .
+. O
 Trong O
 thời O
 tiết O
@@ -5412,14 +5412,14 @@ lạnh O
 của O
 đêm O
 xuống O
-, ,
+, O
 cùng O
 bạn O
 bè O
 dạo O
 quanh O
 chợ O
-, ,
+, O
 nhâm O
 nhi O
 ly O
@@ -5432,10 +5432,10 @@ hay O
 những O
 bắp O
 ngô O
-, ,
+, O
 khoai O
 nướng O
-... ...
+... O
 sẽ O
 là O
 những O
@@ -5443,7 +5443,7 @@ trải O
 nghiệm O
 khó O
 quên O
-. .
+. O
 
 Ga B-LOC
 Đà C-LOC
@@ -5474,11 +5474,11 @@ vẫn O
 còn O
 sót O
 lại O
-. .
+. O
 Chính O
 vì O
 thế O
-, ,
+, O
 nơi O
 đây O
 thu O
@@ -5497,7 +5497,7 @@ chụp O
 tại O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Chùa B-LOC
 Linh C-LOC
@@ -5513,7 +5513,7 @@ Lạt C-LOC
 khoảng O
 8 O
 km O
-. .
+. O
 Ngôi O
 chùa O
 này O
@@ -5536,7 +5536,7 @@ sứ O
 hay O
 vỏ O
 chai O
-. .
+. O
 
 Cách O
 trung O
@@ -5546,7 +5546,7 @@ phố O
 khoảng O
 25 O
 km O
-, ,
+, O
 Ma B-LOC
 Rừng C-LOC
 Lữ C-LOC
@@ -5588,13 +5588,13 @@ dã O
 của O
 nơi O
 đây O
-. .
+. O
 
 Nhà O
 kính O
 trồng O
 rau O
-, ,
+, O
 hoa O
 bao O
 vây O
@@ -5615,7 +5615,7 @@ quan O
 bị O
 biến O
 dạng O
-. .
+. O
 Đã O
 có O
 dấu O
@@ -5638,7 +5638,7 @@ hậu O
 ôn O
 đới O
 này O
-. .
+. O
 
 Đà B-LOC
 Lạt C-LOC
@@ -5653,7 +5653,7 @@ nên O
 khi O
 nhà O
 kính O
-, ,
+, O
 nhà O
 lưới O
 tràn O
@@ -5690,20 +5690,20 @@ chóng O
 về O
 khí O
 hậu O
-, ,
+, O
 hệ O
 sinh O
 thái O
 ở O
 đây O
-. .
+. O
 
 Có O
 khoảng O
 4.400ha O
 nhà O
 kính O
-, ,
+, O
 1.200ha O
 nhà O
 lưới O
@@ -5716,7 +5716,7 @@ nông O
 nghiệp O
 lân O
 cận O
-. .
+. O
 Trong O
 khi O
 đó O
@@ -5733,7 +5733,7 @@ Lạt C-LOC
 chỉ O
 hơn O
 10.000ha O
-. .
+. O
 Diện O
 tích O
 nhà O
@@ -5750,7 +5750,7 @@ cao O
 của O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Số O
 liệu O
@@ -5774,7 +5774,7 @@ quan O
 của O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Nếu O
 nhìn O
@@ -5782,7 +5782,7 @@ bản O
 đồ O
 Đà B-LOC
 Lạt C-LOC
-, ,
+, O
 những O
 vùng O
 hiển O
@@ -5806,7 +5806,7 @@ cảnh O
 quan O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Đó O
 là O
@@ -5814,7 +5814,7 @@ màu O
 của O
 nhà O
 kính O
-. .
+. O
 Số O
 liệu O
 đã O
@@ -5828,7 +5828,7 @@ chỉ O
 toàn O
 nhà O
 kính O
-. .
+. O
 Và O
 màu O
 trắng O
@@ -5847,7 +5847,7 @@ bản O
 đồ O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Nhìn O
 vào O
@@ -5863,14 +5863,14 @@ như O
 Lạt C-LOC
 hiện O
 nay O
-, ,
+, O
 bạn O
 sẽ O
 thấy O
 Đà B-LOC
 Lạt C-LOC
 nóng O
-. .
+. O
 
 Khi O
 nhiệt O
@@ -5881,7 +5881,7 @@ bên O
 ngoài O
 nóng O
 lên O
-, ,
+, O
 người O
 ta O
 phải O
@@ -5891,7 +5891,7 @@ bên O
 trong O
 nhà O
 kính O
-. .
+. O
 Khi O
 hàng O
 chục O
@@ -5919,7 +5919,7 @@ tỏa O
 ra O
 xung O
 quanh O
-, ,
+, O
 theo O
 những O
 hành O
@@ -5936,7 +5936,7 @@ nóng O
 bầu O
 khí O
 quyển O
-. .
+. O
 
 Và O
 như O
@@ -5953,16 +5953,16 @@ lân O
 cận O
 Đà B-LOC
 Lạt C-LOC
-, ,
+, O
 nơi O
 nhiều O
 nhà O
 kính O
-, ,
+, O
 sẽ O
 tăng O
 lên O
-. .
+. O
 
 Trong O
 khoảng O
@@ -5972,7 +5972,7 @@ gian O
 năm O
 gần O
 đây O
-, ,
+, O
 những O
 cây O
 dầu O
@@ -6013,7 +6013,7 @@ lác O
 đác O
 ra O
 hoa O
-. .
+. O
 
 Đà B-LOC
 Lạt C-LOC
@@ -6023,17 +6023,17 @@ bị O
 nhiễm O
 nguồn O
 nước O
-, ,
+, O
 đất O
 bị O
 thái O
 hóa O
-, ,
+, O
 bệnh O
 dịch O
 phát O
 triển O
-. .
+. O
 Nguyên O
 nhân O
 chính O
@@ -6051,11 +6051,11 @@ canh O
 tác O
 chuyên O
 canh O
-. .
+. O
 Để O
 khắc O
 phục O
-, ,
+, O
 nông O
 dân O
 buộc O
@@ -6065,7 +6065,7 @@ dụng O
 thuốc O
 hóa O
 học O
-. .
+. O
 Dịch O
 bệnh O
 sẽ O
@@ -6081,7 +6081,7 @@ gây O
 nhiễm O
 trở O
 lại O
-. .
+. O
 
 Vùng O
 nông O
@@ -6093,14 +6093,14 @@ vào O
 vòng O
 luẩn O
 quẩn O
-, ,
+, O
 hậu O
 quả O
 càng O
 lúc O
 càng O
 nặng O
-. .
+. O
 
 Nhà O
 kính O
@@ -6111,7 +6111,7 @@ lấy O
 vùng O
 dân O
 cư O
-, ,
+, O
 vùng O
 di O
 sản O
@@ -6137,19 +6137,19 @@ trắng O
 khổng O
 lồ O
 vậy O
-. .
+. O
 Vòng O
 kim O
 cô O
 càng O
 lớn O
-, ,
+, O
 Đà B-LOC
 Lạt C-LOC
 càng O
 mỏi O
 mệt O
-. .
+. O
 
 Quy O
 hoạch O
@@ -6158,7 +6158,7 @@ Lạt C-LOC
 xưa O
 đến O
 nay O
-, ,
+, O
 vùng O
 dân O
 cư O
@@ -6167,11 +6167,11 @@ trung O
 ở O
 thung O
 lũng O
-, ,
+, O
 triền O
 đồi O
 thấp O
-. .
+. O
 Vùng O
 vành O
 đai O
@@ -6186,7 +6186,7 @@ hậu O
 vùng O
 trung O
 tâm O
-. .
+. O
 
 Không O
 khí O
@@ -6213,7 +6213,7 @@ phong O
 cách O
 Châu B-LOC
 Âu C-LOC
-. .
+. O
 
 Đà B-LOC
 Lạt C-LOC
@@ -6244,11 +6244,11 @@ Dương C-LOC
 cận O
 nhiệt O
 đới O
-. .
+. O
 
 Ngày O
 nay O
-, ,
+, O
 Đà B-LOC
 Lạt C-LOC
 trở O
@@ -6278,7 +6278,7 @@ các O
 thị O
 ồn O
 ào O
-, ,
+, O
 bụi O
 bặm O
 như O
@@ -6287,11 +6287,11 @@ phố C-LOC
 Hồ C-LOC
 Chí C-LOC
 Minh C-LOC
-. .
+. O
 
 Ngoài O
 ra O
-, ,
+, O
 tấm O
 thảm O
 xanh O
@@ -6305,7 +6305,7 @@ trang O
 trại O
 trồng O
 rau O
-, ,
+, O
 nhà O
 kính O
 và O
@@ -6330,7 +6330,7 @@ tiếng O
 của O
 Việt B-LOC
 Nam C-LOC
-, ,
+, O
 nơi O
 chuyên O
 cung O
@@ -6343,7 +6343,7 @@ nông O
 sản O
 tươi O
 sạch O
-. .
+. O
 
 Còn O
 gì O
@@ -6360,14 +6360,14 @@ nóng O
 của O
 Sài B-LOC
 Gòn C-LOC
-, ,
+, O
 đến O
 với O
 Đà B-LOC
 Lạt C-LOC
 yên O
 bình O
-. .
+. O
 Những O
 người O
 con O
@@ -6391,7 +6391,7 @@ chút O
 tại O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Dạo O
 buổi O
@@ -6399,20 +6399,20 @@ tối O
 ở O
 Đà B-LOC
 Lạt C-LOC
-, ,
+, O
 đến O
 quầy O
 bánh O
 mì O
 nóng O
-, ,
+, O
 mua O
 một O
 cái O
 và O
 thưởng O
 thức O
-, ,
+, O
 hít O
 hà O
 trong O
@@ -6422,22 +6422,22 @@ lạnh O
 của O
 nơi O
 đây O
-. .
+. O
 
 Với O
 rừng O
 thông O
 bạt O
 ngàn O
-, ,
+, O
 rất O
 nhiều O
 hồ O
 nước O
-, ,
+, O
 sông O
 suối O
-, ,
+, O
 Đà B-LOC
 Lạt C-LOC
 sở O
@@ -6446,23 +6446,23 @@ khí O
 hậu O
 tuyệt O
 vời O
-. .
+. O
 Không O
 khí O
 ở O
 đây O
 trong O
 lành O
-, ,
+, O
 mát O
 mẻ O
-, ,
+, O
 khác O
 hẳn O
 sự O
 ngột O
 ngạt O
-, ,
+, O
 đông O
 đúc O
 của O
@@ -6473,15 +6473,15 @@ lớn O
 như O
 Sài B-LOC
 Gòn C-LOC
-, ,
+, O
 Hà B-LOC
 Nội C-LOC
-. .
+. O
 
 Đến O
 Đà B-LOC
 Lạt C-LOC
-, ,
+, O
 bạn O
 có O
 thể O
@@ -6492,7 +6492,7 @@ ngày O
 với O
 4 O
 mùa O
-: :
+: O
 Buổi O
 sáng O
 sớm O
@@ -6502,7 +6502,7 @@ tiết O
 của O
 mùa O
 xuân O
-, ,
+, O
 buổi O
 trưa O
 là O
@@ -6513,7 +6513,7 @@ chiều O
 là O
 mùa O
 thu O
-, ,
+, O
 và O
 đêm O
 là O
@@ -6530,25 +6530,25 @@ Lạt C-LOC
 không O
 cần O
 mùa O
-, ,
+, O
 cần O
 tháng O
-. .
+. O
 Đà B-LOC
 Lạt C-LOC
 lúc O
 nào O
 cũng O
 đẹp O
-, ,
+, O
 cũng O
 mát O
 diụ O
-, ,
+, O
 cũng O
 nên O
 thơ O
-. .
+. O
 
 Thiên O
 nhiên O
@@ -6563,7 +6563,7 @@ khí O
 hậu O
 ôn O
 hòa O
-, ,
+, O
 thiên O
 đường O
 của O
@@ -6571,14 +6571,14 @@ rất O
 nhiều O
 loài O
 hoa O
-. .
+. O
 
 Trong O
 đó O
 hoa O
 Dã O
 Quỳ O
-, ,
+, O
 hoa O
 Mimosa O
 hay O
@@ -6588,10 +6588,10 @@ là O
 nổi O
 tiếng O
 nhất O
-. .
+. O
 Hiện O
 nay O
-, ,
+, O
 người O
 Đà B-LOC
 Lạt C-LOC
@@ -6602,14 +6602,14 @@ nhiều O
 thói O
 quen O
 đẹp O
-, ,
+, O
 ai O
 ai O
 cũng O
 thích O
 trồng O
 hoa O
-. .
+. O
 
 Hoa O
 có O
@@ -6617,10 +6617,10 @@ có O
 trước O
 hiên O
 nhà O
-, ,
+, O
 ven O
 đường O
-, ,
+, O
 hay O
 hoa O
 mọc O
@@ -6638,13 +6638,13 @@ trong O
 lòng O
 du O
 khách O
-. .
+. O
 
 Bên O
 cạnh O
 du O
 lịch O
-, ,
+, O
 có O
 thể O
 nói O
@@ -6661,14 +6661,14 @@ thành O
 phố O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Nhờ O
 khí O
 hậu O
 4 O
 mùa O
-, ,
+, O
 Đà B-LOC
 Lạt C-LOC
 có O
@@ -6681,7 +6681,7 @@ trong O
 Nam O
 ngoài O
 Bắc O
-. .
+. O
 
 Du O
 khách O
@@ -6704,7 +6704,7 @@ cây O
 của O
 nông O
 dân O
-. .
+. O
 
 Người O
 dân O
@@ -6722,7 +6722,7 @@ phê O
 thì O
 rất O
 khác O
-, ,
+, O
 cá O
 tính O
 và O
@@ -6731,13 +6731,13 @@ khi O
 khá O
 … ...
 quái O
-. .
+. O
 
 Nhịp O
 sống O
 chậm O
 rãi O
-, ,
+, O
 hiền O
 hòa O
 của O
@@ -6748,11 +6748,11 @@ giúp O
 bạn O
 sống O
 chậm O
-, ,
+, O
 suy O
 nghĩ O
 chậm O
-, ,
+, O
 để O
 thấy O
 lòng O
@@ -6777,7 +6777,7 @@ thắng O
 cảnh O
 thơ O
 mộng O
-. .
+. O
 lãng O
 mạn O
 làm O
@@ -6811,7 +6811,7 @@ rũ O
 và O
 nổi O
 tiếng O
-. .
+. O
 
 Đà B-LOC
 Lạt C-LOC
@@ -6824,7 +6824,7 @@ tiếng O
 của O
 Việt B-LOC
 Nam C-LOC
-, ,
+, O
 nơi O
 có O
 khí O
@@ -6837,7 +6837,7 @@ khung O
 cảnh O
 nên O
 thơ O
-. .
+. O
 
 Cách O
 trung O
@@ -6849,7 +6849,7 @@ Lạt C-LOC
 gần O
 10 O
 km O
-, ,
+, O
 đồi
 Thiên B-LOC
 Phúc C-LOC
@@ -6874,7 +6874,7 @@ những O
 kẻ O
 du O
 hành O
-. .
+. O
 
 Tuy O
 nhiên O
@@ -6890,7 +6890,7 @@ chừng O
 phút O
 cuốc O
 bộ O
-, ,
+, O
 bạn O
 đã O
 đặt O
@@ -6907,13 +6907,13 @@ khung O
 cảnh O
 tuyệt O
 sắc O
-, ,
+, O
 huyền O
 ảo O
 của O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Độc O
 đáo O
@@ -6930,7 +6930,7 @@ cô O
 trên O
 ngọn O
 đồi O
-, ,
+, O
 có O
 dáng O
 nghiêng O
@@ -6943,7 +6943,7 @@ như O
 chờ O
 một O
 ai O
-, ,
+, O
 lẻ O
 loi O
 cô O
@@ -6955,7 +6955,7 @@ lạnh O
 của O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Thiên B-LOC
 Phúc C-LOC
@@ -6968,7 +6968,7 @@ Biang C-LOC
 nên O
 tại O
 đây O
-, ,
+, O
 bạn O
 sẽ O
 dễ O
@@ -6980,7 +6980,7 @@ bức O
 tranh O
 hùng O
 vĩ O
-, ,
+, O
 thơ O
 mộng O
 nổi O
@@ -6990,14 +6990,14 @@ nhất O
 tại O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Để O
 đến O
 Dalat B-LOC
 Milk C-LOC
 Farm C-LOC
-, ,
+, O
 bạn O
 đi O
 xe O
@@ -7021,19 +7021,19 @@ lộ O
 khoảng O
 25 O
 km O
-, ,
+, O
 gặp O
 ngã O
 ba O
 Bồng B-LOC
 Lai C-LOC
-, ,
+, O
 rẽ O
 trái O
 vào O
 10 O
 km O
-. .
+. O
 
 Nếu O
 du O
@@ -7069,7 +7069,7 @@ dẫn O
 vào O
 nơi O
 này O
-. .
+. O
 
 Nằm O
 cách O
@@ -7083,12 +7083,12 @@ thành O
 phố O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 Từ O
 trong O
 nội O
 thành O
-, ,
+, O
 bạn O
 sẽ O
 đi O
@@ -7100,19 +7100,19 @@ hơn O
 được O
 nơi O
 đây O
-. .
+. O
 Theo O
 đường O
 Tùng O
 Lâm O
-, ,
+, O
 đi O
 đến O
 hướng O
 Thung B-LOC
 Lũng C-LOC
 Vàng C-LOC
-, ,
+, O
 sau O
 đó O
 đến O
@@ -7130,7 +7130,7 @@ báo O
 Ngã B-LOC
 Ba C-LOC
 Tình C-LOC
-. .
+. O
 
 Được O
 ví O
@@ -7141,14 +7141,14 @@ tiên O
 của O
 Đà B-LOC
 Lạt C-LOC
-, ,
+, O
 Ma B-LOC
 Rừng C-LOC
 Lữ C-LOC
 Quán C-LOC
 quyến O
 rũ O
-, ,
+, O
 bình O
 yên O
 trong O
@@ -7158,7 +7158,7 @@ tím O
 biếc O
 của O
 cây O
-, ,
+, O
 của O
 hoa O
 và O
@@ -7175,7 +7175,7 @@ trong O
 truyện O
 cổ O
 tích O
-. .
+. O
 
 Với O
 khung O
@@ -7184,7 +7184,7 @@ cực O
 kỳ O
 lãng O
 mạn O
-, ,
+, O
 Ma B-LOC
 Rừng C-LOC
 Lữ C-LOC
@@ -7200,13 +7200,13 @@ khách O
 tại O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Để O
 đi O
 đến O
 đây O
-, ,
+, O
 bạn O
 có O
 thể O
@@ -7215,12 +7215,12 @@ lộ O
 trình O
 như O
 sau O
-: :
+: O
 Từ O
 chợ O
 Đà B-LOC
 Lạt C-LOC
-, ,
+, O
 bạn O
 đi O
 theo O
@@ -7236,7 +7236,7 @@ vào O
 Đinh O
 Tiên O
 Hoàng O
-, ,
+, O
 đi O
 thẳng O
 sang O
@@ -7245,14 +7245,14 @@ Phù O
 Đổng O
 Thiên O
 Vương O
-, ,
+, O
 quẹo O
 trái O
 vào O
 đường O
 Thánh O
 Mẫu O
-. .
+. O
 
 Làng B-LOC
 Cù C-LOC
@@ -7280,7 +7280,7 @@ Dương C-LOC
 – –
 Lâm B-LOC
 Đồng C-LOC
-, ,
+, O
 cách O
 thành O
 phố O
@@ -7288,7 +7288,7 @@ phố O
 Lạt C-LOC
 chừng O
 20km O
-. .
+. O
 
 Một O
 địa O
@@ -7315,7 +7315,7 @@ vực O
 hồ O
 suối B-LOC
 Vàng C-LOC
-. .
+. O
 
 Từ O
 thành O
@@ -7334,10 +7334,10 @@ khu O
 vực O
 suối B-LOC
 Vàng C-LOC
-. .
+. O
 Từ O
 đây O
-, ,
+, O
 bạn O
 mất O
 khoảng O
@@ -7370,7 +7370,7 @@ thị O
 cây O
 cô O
 đơn O
-. .
+. O
 
 Thác B-LOC
 Pongour C-LOC
@@ -7384,14 +7384,14 @@ Thiên O
 đệ O
 nhất O
 thác O
-, ,
+, O
 tọa O
 lạc O
 tại O
 xã O
 Tân B-LOC
 Hội C-LOC
-, ,
+, O
 huyện O
 Đức B-LOC
 Trọng C-LOC
@@ -7411,7 +7411,7 @@ trên O
 quốc O
 lộ O
 2 O
-. .
+. O
 
 Dù O
 cách O
@@ -7425,7 +7425,7 @@ nhưng O
 sự O
 hấp O
 dẫn O
-, ,
+, O
 lôi O
 cuốn O
 của O
@@ -7445,7 +7445,7 @@ trong O
 và O
 ngoài O
 nước O
-. .
+. O
 
 Không O
 giống O
@@ -7462,7 +7462,7 @@ mang O
 tính O
 thời O
 vụ O
-, ,
+, O
 riêng O
 Đà B-LOC
 Lạt C-LOC
@@ -7482,7 +7482,7 @@ nét O
 riêng O
 của O
 nó O
-. .
+. O
 Bạn O
 có O
 thể O
@@ -7502,7 +7502,7 @@ chuyến O
 Lạt C-LOC
 của O
 mình O
-. .
+. O
 
 Nếu O
 bạn O
@@ -7540,7 +7540,7 @@ nhất O
 chiêm O
 ngưỡng O
 hoa O
-. .
+. O
 
 Dư O
 vị O
@@ -7569,11 +7569,11 @@ nỗi O
 nhớ O
 khôn O
 nguôi O
-. .
+. O
 
 Cuối O
 năm O
-, ,
+, O
 nếu O
 bạn O
 đi O
@@ -7583,9 +7583,9 @@ lịch O
 Lạt C-LOC
 tháng O
 10 O
-, ,
+, O
 11 O
-, ,
+, O
 12 O
 phảng O
 phất O
@@ -7602,7 +7602,7 @@ mang O
 màu O
 xanh O
 ngắt O
-. .
+. O
 
 Để O
 phục O
@@ -7615,7 +7615,7 @@ lịch O
 Lạt C-LOC
 của O
 mình O
-, ,
+, O
 bạn O
 có O
 vài O
@@ -7626,7 +7626,7 @@ vùng O
 đất O
 ngàn O
 hoa O
-. .
+. O
 
 Đà B-LOC
 Lạt C-LOC
@@ -7644,7 +7644,7 @@ phố O
 về O
 phía O
 Nam O
-. .
+. O
 Bạn O
 có O
 thể O
@@ -7656,10 +7656,10 @@ các O
 hãng O
 Vietnam O
 airlines O
-, ,
+, O
 Vietjet O
 Air O
-, ,
+, O
 Jetstar O
 để O
 đến O
@@ -7672,7 +7672,7 @@ thành O
 phố O
 mộng O
 mơ O
-. .
+. O
 
 Bởi O
 Đà B-LOC
@@ -7682,7 +7682,7 @@ nhiều O
 cung O
 đường O
 đèo O
-, ,
+, O
 cua O
 gấp O
 và O
@@ -7711,7 +7711,7 @@ cạnh O
 của O
 thành O
 phố O
-. .
+. O
 
 Nếu O
 bạn O
@@ -7741,7 +7741,7 @@ dòng O
 thác O
 nhẹ O
 nhàng O
-, ,
+, O
 êm O
 ái O
 như O
@@ -7751,7 +7751,7 @@ thiếu O
 nữ O
 dịu O
 dàng O
-, ,
+, O
 ngây O
 thơ O
 trong O
@@ -7772,7 +7772,7 @@ lịch O
 Lạt C-LOC
 ấn O
 tượng O
-, ,
+, O
 tạo O
 nên O
 một O
@@ -7782,7 +7782,7 @@ thiên O
 nhiên O
 kì O
 vĩ O
-. .
+. O
 
 Thác B-LOC
 Cam C-LOC
@@ -7808,7 +7808,7 @@ thành O
 phố O
 Đà B-LOC
 Lạt C-LOC
-, ,
+, O
 từ O
 khu O
 Hoà B-LOC
@@ -7820,7 +7820,7 @@ mất O
 khoảng O
 2,2 O
 km O
-. .
+. O
 
 Thác B-LOC
 Cam C-LOC
@@ -7851,14 +7851,14 @@ từ O
 hồ O
 chảy O
 ra O
-. .
+. O
 
 Đến O
 với O
 Thác B-LOC
 Cam C-LOC
 Ly C-LOC
-, ,
+, O
 du O
 khách O
 sẽ O
@@ -7891,7 +7891,7 @@ có O
 ở O
 nơi O
 đây O
-, ,
+, O
 khoảnh O
 khắc O
 thả O
@@ -7911,7 +7911,7 @@ như O
 được O
 chở O
 che O
-, ,
+, O
 bao O
 bọc O
 bởi O
@@ -7924,7 +7924,7 @@ của O
 đến O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Xung O
 quanh O
@@ -7944,7 +7944,7 @@ lều O
 tranh O
 giản O
 dị O
-, ,
+, O
 đơn O
 sơ O
 để O
@@ -7952,7 +7952,7 @@ du O
 khách O
 nghỉ O
 chân O
-, ,
+, O
 một O
 thú O
 vui O
@@ -7992,7 +7992,7 @@ trông O
 thật O
 lung O
 linh O
-, ,
+, O
 huyền O
 ảo O
 như O
@@ -8004,13 +8004,13 @@ dưới O
 ánh O
 mặt O
 trời O
-. .
+. O
 
 Theo O
 dòng O
 thời O
 gian O
-, ,
+, O
 vẻ O
 đẹp O
 của O
@@ -8055,10 +8055,10 @@ tác O
 phẩm O
 văn O
 học O
-, ,
+, O
 thơ O
 ca O
-, ,
+, O
 bài O
 hát O
 có O
@@ -8066,7 +8066,7 @@ giá O
 trị O
 thẩm O
 mỹ O
-, ,
+, O
 mà O
 cái O
 đẹp O
@@ -8083,20 +8083,20 @@ tâm O
 hồn O
 thanh O
 khiết O
-, ,
+, O
 du O
 ngoạn O
-, ,
+, O
 lánh O
 đời O
 cũng O
 phải O
 rung O
 động O
-, ,
+, O
 yêu O
 mến O
-. .
+. O
 
 Là O
 con O
@@ -8133,11 +8133,11 @@ của O
 lòng O
 biết O
 ơn O
-, ,
+, O
 sự O
 tưởng O
 nhớ O
-. .
+. O
 
 Đến O
 với O
@@ -8148,10 +8148,10 @@ lịch O
 Thác B-LOC
 Cam C-LOC
 Ly C-LOC
-, ,
+, O
 ngắm O
 nhìn O
-, ,
+, O
 hít O
 thở O
 bầu O
@@ -8163,7 +8163,7 @@ thôi O
 thì O
 chưa O
 đủ O
-, ,
+, O
 rất O
 nhiều O
 du O
@@ -8180,14 +8180,14 @@ thiên O
 nhiên O
 nơi O
 đây O
-, ,
+, O
 một O
 nguồn O
 cảm O
 hứng O
 bất O
 tận O
-, ,
+, O
 phong O
 phú O
 dành O
@@ -8196,7 +8196,7 @@ những O
 nhiếp O
 ảnh O
 gia O
-. .
+. O
 
 Màu O
 xanh O
@@ -8206,14 +8206,14 @@ những O
 thông O
 cao O
 vút O
-, ,
+, O
 màu O
 trắng O
 xoá O
 của O
 thác O
 nước O
-, ,
+, O
 màu O
 xanh O
 điểm O
@@ -8226,7 +8226,7 @@ bềnh O
 của O
 bầu O
 trời O
-, ,
+, O
 màu O
 vàng O
 của O
@@ -8277,11 +8277,11 @@ tại O
 đến O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Ngày O
 nay O
-, ,
+, O
 Thác B-LOC
 Cam C-LOC
 Ly C-LOC
@@ -8318,7 +8318,7 @@ những O
 tấm O
 hình O
 cưới O
-, ,
+, O
 nơi O
 ghi O
 lại O
@@ -8339,20 +8339,20 @@ tại O
 trần O
 gian O
 này O
-. .
+. O
 
 Trong O
 cuộc O
 sống O
 nhanh O
-, ,
+, O
 tấp O
 nập O
 phố O
 phường O
 thành O
 thị O
-, ,
+, O
 khói O
 bụi O
 xe O
@@ -8379,7 +8379,7 @@ thân O
 với O
 thiên O
 nhiên O
-, ,
+, O
 kôn O
 khí O
 yên O
@@ -8393,10 +8393,10 @@ trong O
 chuyến O
 du O
 lịch O
-, ,
+, O
 công O
 tác O
-. .
+. O
 
 Hồ B-LOC
 Xuân C-LOC
@@ -8411,7 +8411,7 @@ khi O
 đến O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Đấy O
 là O
@@ -8435,7 +8435,7 @@ vẻ O
 đẹp O
 lãng O
 mạn O
-. .
+. O
 Hầu O
 hết O
 các O
@@ -8475,7 +8475,7 @@ nhắc O
 và O
 ghé O
 thăm O
-. .
+. O
 
 Trong O
 tiềm O
@@ -8497,7 +8497,7 @@ thành O
 phố O
 thơ O
 mộng O
-, ,
+, O
 lãng O
 mạn O
 hay O
@@ -8505,7 +8505,7 @@ thành O
 phố O
 của O
 hoa O
-. .
+. O
 
 Đà B-LOC
 Lạt C-LOC
@@ -8531,7 +8531,7 @@ tặng O
 cho O
 nơi O
 đây O
-. .
+. O
 Tất O
 cả O
 đều O
@@ -8547,7 +8547,7 @@ qua O
 từng O
 câu O
 chữ O
-, ,
+, O
 riêng O
 với O
 họa O
@@ -8575,7 +8575,7 @@ hình O
 về O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Hồ B-LOC
 Xuân C-LOC
@@ -8588,7 +8588,7 @@ trung O
 tâm O
 thành O
 phố O
-, ,
+, O
 là O
 một O
 hồ O
@@ -8599,16 +8599,16 @@ hình O
 trăng O
 lưỡi O
 liềm O
-, ,
+, O
 hồ O
 rộng O
 25ha O
-, ,
+, O
 mặt O
 nước O
 trong O
 xanh O
-, ,
+, O
 lăn O
 tăn O
 những O
@@ -8623,7 +8623,7 @@ gió O
 mát O
 thổi O
 qua O
-. .
+. O
 
 Vào O
 mùa O
@@ -8645,7 +8645,7 @@ sắc O
 của O
 trời O
 đất O
-, ,
+, O
 hai O
 bên O
 Hồ B-LOC
@@ -8655,7 +8655,7 @@ rực O
 rỡ O
 sắc O
 hồng O
-. .
+. O
 
 Đến O
 Hồ B-LOC
@@ -8681,7 +8681,7 @@ thêm O
 sự O
 gắn O
 kết O
-. .
+. O
 
 Khi O
 về O
@@ -8702,7 +8702,7 @@ hoạt O
 động O
 tấp O
 nập O
-, ,
+, O
 hơn O
 hết O
 là O
@@ -8715,7 +8715,7 @@ xe O
 luôn O
 đắt O
 khách O
-. .
+. O
 
 Nhìn O
 đôi O
@@ -8724,7 +8724,7 @@ mắt O
 lên O
 hạnh O
 phúc O
-, ,
+, O
 cùng O
 nhau O
 sánh O
@@ -8745,7 +8745,7 @@ hoàn O
 toàn O
 du O
 khách O
-. .
+. O
 
 Một O
 hình O
@@ -8767,7 +8767,7 @@ trò O
 chơi O
 đạp O
 vịt O
-. .
+. O
 Những O
 cặp O
 tình O
@@ -8790,7 +8790,7 @@ chủ O
 khiển O
 hướng O
 đi O
-, ,
+, O
 điều O
 kiến O
 tốc O
@@ -8801,13 +8801,13 @@ con O
 vịt O
 lướt O
 nhẹ O
-, ,
+, O
 dập O
 dềnh O
 trên O
 mặt O
 hồ O
-. .
+. O
 
 Điểm O
 đến O
@@ -8834,7 +8834,7 @@ quán O
 café O
 Thủy O
 Tạ O
-. .
+. O
 Nó O
 thu O
 hút O
@@ -8857,7 +8857,7 @@ màu O
 trắng O
 nổi O
 bật O
-. .
+. O
 Đối O
 với O
 người O
@@ -8880,7 +8880,7 @@ hình O
 Hồ B-LOC
 Xuân C-LOC
 Hương C-LOC
-. .
+. O
 
 Không O
 có O
@@ -8907,7 +8907,7 @@ quan O
 ở O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 Có O
 thể O
 khẳng O
@@ -8951,10 +8951,10 @@ thành O
 phố O
 sương O
 mù O
-, ,
+, O
 mộng O
 mơ O
-. .
+. O
 
 Cảnh O
 đẹp O
@@ -8969,7 +8969,7 @@ năm O
 ở O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Đặt O
 chân O
@@ -8992,13 +8992,13 @@ người O
 ta O
 lưu O
 luyến O
-, ,
+, O
 ấy O
 là O
 Hồ B-LOC
 Than C-LOC
 Thở C-LOC
-, ,
+, O
 một O
 bức O
 tranh O
@@ -9006,7 +9006,7 @@ sơn O
 thủy O
 hữu O
 tình O
-, ,
+, O
 một O
 bức O
 tranh O
@@ -9027,10 +9027,10 @@ trong O
 lòng O
 kẻ O
 ở O
-, ,
+, O
 người O
 đi O
-. .
+. O
 
 Hồ B-LOC
 Than C-LOC
@@ -9047,7 +9047,7 @@ Học O
 viện O
 lục O
 quân O
-, ,
+, O
 cách O
 trung O
 tâm O
@@ -9067,7 +9067,7 @@ về O
 hướng O
 Chi B-LOC
 Lăng C-LOC
-. .
+. O
 
 Người O
 dân O
@@ -9092,7 +9092,7 @@ mỗi O
 buổi O
 sáng O
 sớm O
-, ,
+, O
 nơi O
 mặt O
 hồ O
@@ -9116,7 +9116,7 @@ thầm O
 của O
 ngàn O
 xưa O
-. .
+. O
 
 Phía O
 bắc O
@@ -9135,13 +9135,13 @@ một O
 thông O
 ngút O
 ngàn O
-, ,
+, O
 các O
 cây O
 được O
 trồng O
 thưa O
-, ,
+, O
 cao O
 xấp O
 xỉ O
@@ -9157,7 +9157,7 @@ tên O
 thông O
 hai O
 mộ O
-. .
+. O
 Chính O
 địa O
 danh O
@@ -9174,11 +9174,11 @@ gian O
 màu O
 kí O
 ức O
-. .
+. O
 
 Trước O
 đây O
-, ,
+, O
 Hồ B-LOC
 Than C-LOC
 Thở C-LOC
@@ -9192,7 +9192,7 @@ tự O
 nhiên O
 đơn O
 thuần O
-, ,
+, O
 dược O
 người O
 Pháp B-LOC
@@ -9202,7 +9202,7 @@ làm O
 đập O
 chứa O
 nước O
-, ,
+, O
 dần O
 dần O
 Hồ B-LOC
@@ -9225,7 +9225,7 @@ mảnh O
 cao O
 nguyên O
 này O
-. .
+. O
 
 Đến O
 với O
@@ -9248,7 +9248,7 @@ thảm O
 cỏ O
 tự O
 nhiên O
-. .
+. O
 
 Hồ B-LOC
 Than C-LOC
@@ -9260,7 +9260,7 @@ tình O
 yêu O
 bất O
 diệt O
-. .
+. O
 
 Đến O
 với O
@@ -9273,7 +9273,7 @@ du O
 lịch O
 Đà B-LOC
 Lạt C-LOC
-, ,
+, O
 không O
 chỉ O
 là O
@@ -9298,7 +9298,7 @@ về O
 với O
 quá O
 khứ O
-, ,
+, O
 với O
 câu O
 chuyện O
@@ -9311,7 +9311,7 @@ trong O
 núi O
 rừng O
 ấy O
-. .
+. O
 
 Thời O
 gian O
@@ -9319,11 +9319,11 @@ gian O
 đẵng O
 trôi O
 đi O
-, ,
+, O
 chợt O
 một O
 ngày O
-, ,
+, O
 mai O
 Hương O
 nhận O
@@ -9335,11 +9335,11 @@ sinh O
 nơi O
 chiến O
 trận O
-, ,
+, O
 quá O
 đau O
 buồn O
-, ,
+, O
 nàng O
 đã O
 gieo O
@@ -9348,14 +9348,14 @@ xuống O
 Hồ B-LOC
 Than C-LOC
 Thở C-LOC
-, ,
+, O
 quyên O
 sinh O
-. .
+. O
 
 Ngày O
 nay O
-, ,
+, O
 Hồ B-LOC
 Than C-LOC
 Thở C-LOC
@@ -9401,7 +9401,7 @@ rất O
 nhiều O
 nhà O
 thơ O
-. .
+. O
 
 Thời O
 gian O
@@ -9411,7 +9411,7 @@ vô O
 tình O
 lướt O
 qua O
-, ,
+, O
 đem O
 đi O
 tuổi O
@@ -9425,7 +9425,7 @@ con O
 người O
 nơi O
 đây O
-, ,
+, O
 đem O
 bụi O
 mờ O
@@ -9434,7 +9434,7 @@ lên O
 trên O
 cảnh O
 vật O
-, ,
+, O
 nhưng O
 Hồ B-LOC
 Than C-LOC
@@ -9450,7 +9450,7 @@ bỉ O
 nằm O
 ở O
 đó O
-, ,
+, O
 vẫn O
 viết O
 nên O
@@ -9459,7 +9459,7 @@ trang O
 vàng O
 huyền O
 thoại O
-. .
+. O
 
 Đến O
 Đà B-LOC
@@ -9468,7 +9468,7 @@ các O
 tháng O
 đầu O
 năm O
-, ,
+, O
 du O
 khách O
 không O
@@ -9493,7 +9493,7 @@ trôi O
 đẹp O
 ngỡ O
 ngàng
-. .
+. O
 
 Đà B-LOC
 Lạt C-LOC
@@ -9510,12 +9510,12 @@ muôn O
 hoa O
 đua O
 sắc O
-, ,
+, O
 khí O
 hậu O
 dễ O
 chịu O
-, ,
+, O
 chứ O
 không O
 phải O
@@ -9526,20 +9526,20 @@ săn O
 mây O
 tháng O
 7 O
-, ,
+, O
 tháng O
 8 O
 như O
 mọi O
 khi O
-. .
+. O
 
 Các O
 tín O
 đồ O
 săn O
 mây O
-, ,
+, O
 chụp O
 hình O
 vẫn O
@@ -9553,7 +9553,7 @@ ngay O
 thời O
 điểm O
 này O
-. .
+. O
 
 Đồi O
 cỏ O
@@ -9563,7 +9563,7 @@ thành O
 màu O
 cỏ O
 cháy O
-, ,
+, O
 được O
 mệnh O
 danh O
@@ -9576,20 +9576,20 @@ nhất O
 ở O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Được O
 ví O
 là O
 trái O
 tim O
-, ,
+, O
 nhịp O
 thở O
 của O
 Đà B-LOC
 Lạt C-LOC
-, ,
+, O
 đồi O
 Cù O
 là O
@@ -9608,7 +9608,7 @@ bên O
 Hồ B-LOC
 Xuân C-LOC
 Hương C-LOC
-, ,
+, O
 những O
 tia O
 nắng O
@@ -9627,7 +9627,7 @@ tranh O
 đẹp O
 ngỡ O
 ngàng O
-. .
+. O
 
 Hồ B-LOC
 Xuân C-LOC
@@ -9640,7 +9640,7 @@ thành O
 phố O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Đây O
 là O
@@ -9664,7 +9664,7 @@ thành O
 phố O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Hồ B-LOC
 Xuân C-LOC
@@ -9673,11 +9673,11 @@ là O
 hồ O
 nhân O
 tạo O
-, ,
+, O
 rộng O
 chừng O
 5km O
-. .
+. O
 
 Đà B-LOC
 Lạt C-LOC
@@ -9696,7 +9696,7 @@ Lạt C-LOC
 vào O
 mùa O
 thu O
-, ,
+, O
 chính O
 ra O
 vẫn O
@@ -9708,7 +9708,7 @@ nghiệm O
 có O
 hơn O
 cả O
-. .
+. O
 
 Vì O
 vào O
@@ -9721,7 +9721,7 @@ nhộn O
 nhịp O
 sắc O
 hoa O
-, ,
+, O
 bạn O
 phải O
 chen O
@@ -9733,7 +9733,7 @@ tứ O
 phương O
 đổ O
 về O
-. .
+. O
 
 Đà B-LOC
 Lạt C-LOC
@@ -9744,7 +9744,7 @@ mạn O
 và O
 nên O
 thơ O
-, ,
+, O
 hẳn O
 nhiên O
 đi O
@@ -9757,7 +9757,7 @@ phúc O
 hơn O
 một O
 mình O
-. .
+. O
 
 Đà B-LOC
 Lạt C-LOC
@@ -9778,7 +9778,7 @@ biết O
 bao O
 nhiêu O
 lần O
-, ,
+, O
 ta O
 vẫn O
 muốn O
@@ -9799,12 +9799,12 @@ thể O
 nào O
 dứt O
 bỏ O
-. .
+. O
 
 Bao O
 năm O
 rồi O
-, ,
+, O
 hồ B-LOC
 Xuân C-LOC
 Hương C-LOC
@@ -9819,7 +9819,7 @@ trầm O
 lặng O
 của O
 mình
-. .
+. O
 
 Mặc O
 cho O
@@ -9828,7 +9828,7 @@ người O
 có O
 hối O
 hả O
-, ,
+, O
 mặc O
 cho O
 nắng O
@@ -9837,7 +9837,7 @@ hay O
 hoàng O
 hôn O
 tím O
-, ,
+, O
 hồ B-LOC
 Xuân C-LOC
 Hương C-LOC
@@ -9851,14 +9851,14 @@ trời O
 cho O
 riêng O
 mình O
-. .
+. O
 
 Hồ B-LOC
 Xuân C-LOC
 Hương C-LOC
 tự O
 tình O
-, ,
+, O
 yên O
 bình O
 mặc O
@@ -9893,7 +9893,7 @@ se O
 lạnh O
 đặc O
 trưng O
-, ,
+, O
 chút O
 lãng O
 đãng O
@@ -9928,15 +9928,15 @@ khi O
 bình O
 mình O
 còn O
-" "
+" O
 lười O
 biếng O
-" "
+" O
 chưa O
 chịu O
 thức O
 giấc O
-. .
+. O
 
 Hồ B-LOC
 Xuân C-LOC
@@ -9987,7 +9987,7 @@ xứ O
 sở O
 hoa O
 này O
-. .
+. O
 
 Nằm O
 ngay O
@@ -9995,7 +9995,7 @@ trung O
 tâm O
 thành O
 phố O
-, ,
+, O
 Hồ B-LOC
 Xuân C-LOC
 Hương C-LOC
@@ -10022,7 +10022,7 @@ từ O
 cỏ O
 bên O
 bờ O
-. .
+. O
 
 Mộc O
 mạc O
@@ -10069,12 +10069,12 @@ du O
 lịch O
 Đà B-LOC
 Lạt C-LOC
-. .
+. O
 
 Ở O
 Đà B-LOC
 Lạt C-LOC
-, ,
+, O
 điều O
 khiến O
 du O
@@ -10093,7 +10093,7 @@ dường O
 như O
 không O
 có O
-. .
+. O
 
 Địa O
 hình O
@@ -10107,4 +10107,4 @@ với O
 nhiều O
 ngõ O
 ngách O
-. .
+. O
