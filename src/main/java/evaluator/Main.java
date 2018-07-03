@@ -66,6 +66,7 @@ public class Main {
                 (actualResults.get(i), st);
 
             System.out.println("Test case " + (i + 1));
+            System.out.println("Sentence: " + st);
             System.out.println("Predicted entities: " + predicted);
             System.out.println("Actual entities: " + groundTruth);
             Map<String, Double> evaluator = Evaluator.getPrecisionRecall
