@@ -16,7 +16,7 @@ public class Main {
 
         try {
             SentenceDetector sd = new SentenceDetector
-                ("models\\sentDetection\\VietnameseSD.bin.gz");
+                ("models/sentDetection/VietnameseSD.bin.gz");
             String[] sentences = sd.sentDetect(text);
 
             HMM hmm = Trainer.loadHMM();
