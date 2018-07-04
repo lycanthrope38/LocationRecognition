@@ -62,12 +62,12 @@ def data_augmentation(tokens, indices, unique_locations, growth_rate = 5):
 
 def main():
     if len(sys.argv) < 3:
-        raise ValueError('Usage: python data_augmentation.py data_path growth_rate')
+        raise ValueError('Usage: python data_augmentation.py [data path] [growth rate]')
 
     file_path = sys.argv[1].replace("\"", "").replace("\'", "")
     growth_rate = int(sys.argv[2])
     current_path = os.path.dirname(os.path.realpath(__file__))
-    with open(os.path.join(current_path, 'train.txt')) as f:
+    with open(os.path.join(file_path)) as f:
         tokens = f.read().split('\n')
         for i in range(len(tokens)):
             tokens[i] = tokens[i].split()
@@ -85,10 +85,10 @@ def main():
     augmented_data = data_augmentation(tokens, location_indices, \
         unique_locations, growth_rate)
 
-    with  open(file_path, 'w') as f_write:
+    with  open(file_path+'.generated', 'w') as f_write:
         for item in augmented_data:
             print >> f_write, ' '.join(item)
-        print('file wrote at: {}'.format(os.getcwd()))
+        print('file wrote at: {}'.format(file_path+'.generated'))
 
 if __name__ == "__main__":
     main()
