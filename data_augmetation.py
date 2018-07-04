@@ -29,8 +29,12 @@ def generate_replacement_dict(unique_locations, growth_rate):
 
 def get_location_from_token_index(tokens, index):
     location = []
+    started = False
     while len(tokens[index]) ==2:
+        if started and tokens[index][1] == 'B-LOC':
+            break
         if tokens[index][1] in ['B-LOC', 'C-LOC']:
+            started=True
             location.append(tokens[index][0])
             index+=1
         else:
@@ -39,6 +43,7 @@ def get_location_from_token_index(tokens, index):
 
 def  replace_tokens(tokens, rep_index, rep_dict, gr):
     rep_key = get_location_from_token_index(tokens, rep_index)
+    # print(rep_key)
     replacement = rep_dict[rep_key]
     for i in range(len(rep_key.split())):
         del tokens[rep_index]
@@ -61,6 +66,20 @@ def data_augmentation(tokens, indices, unique_locations, growth_rate = 5):
 
         result.extend(tokens_to_replace)
     return result
+
+def retag(tokens):
+    loc_word_count = 0
+    for i, t in enumerate(tokens):
+        if len(t) ==2:
+            if t[1]=='B-LOC':
+                loc_word_count = 1
+                tokens[i][1] = 'LOC_'+str(loc_word_count)
+            if t[1]=='C-LOC':
+                loc_word_count+=1
+                tokens[i][1] = 'LOC_'+str(loc_word_count)
+
+    #print([t[1] for t in tokens if len(t)==2])
+    return tokens
 
 def specific_duplicate(tokens, indices, unique_locations, probability):
     pass
@@ -86,15 +105,18 @@ def main():
         file_path = sys.argv[2].replace("\"", "").replace("\'", "")
         growth_rate = int(sys.argv[3])
     if mode=='spe':
-        file_path = sys.argv[2].replace("\"", "").replace("\'", "")
-        ratio = float(sys.argv[3])
-        location = sys.argv[4].replace("\"", "").replace("\'", "")
+        raise NotImplementedError("Mode này chỉ để cho vui")
+        # file_path = sys.argv[2].replace("\"", "").replace("\'", "")
+        # ratio = float(sys.argv[3])
+        # location = sys.argv[4].replace("\"", "").replace("\'", "")
 
     current_path = os.path.dirname(os.path.realpath(__file__))
     with open(os.path.join(file_path)) as f:
         tokens = f.read().split('\n')
         for i in range(len(tokens)):
             tokens[i] = tokens[i].split()
+
+    # retag(tokens)
 
     locations = [];    location_indices = []
     for i, token in enumerate(tokens):
@@ -109,6 +131,8 @@ def main():
     # if 
     augmented_data = data_augmentation(tokens, location_indices, \
         unique_locations, growth_rate)
+
+    # retag(augmented_data)
 
     with  open(file_path+'.generated', 'w') as f_write:
         for item in augmented_data:
