@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import os
 import numpy as np
 import copy
@@ -60,12 +62,34 @@ def data_augmentation(tokens, indices, unique_locations, growth_rate = 5):
         result.extend(tokens_to_replace)
     return result
 
-def main():
-    if len(sys.argv) < 3:
-        raise ValueError('Usage: python data_augmentation.py [data path] [growth rate]')
+def specific_duplicate(tokens, indices, unique_locations, probability):
+    pass
 
-    file_path = sys.argv[1].replace("\"", "").replace("\'", "")
-    growth_rate = int(sys.argv[2])
+def check_argument(mode, message):
+    assert mode in ['aug', 'spe'] and (mode=='aug' and len(sys.argv)==3 \
+    or mode=='aug' and len(sys.argv)==4), message
+
+
+def main():
+    USAGE_MESSAGE = 'Usage: \n\
+        mode augmentation: python data_augmentation.py aug [data path] [growth rate]\n\
+                      e.g. python data_augmentation.py aug train.txt 40\n\n\
+        mode specific aug: python data_augmentation.py spe [data path] [location] [probability]\n\
+                      e.g. python data_augmentation.py spe train.txt \"Hồ Xuân Hương\" 0.3'
+    
+    if len(sys.argv) < 3:
+        raise ValueError(USAGE_MESSAGE)
+    mode = sys.argv[1]
+    check_argument(mode, USAGE_MESSAGE)
+
+    if mode=='aug':
+        file_path = sys.argv[2].replace("\"", "").replace("\'", "")
+        growth_rate = int(sys.argv[3])
+    if mode=='spe':
+        file_path = sys.argv[2].replace("\"", "").replace("\'", "")
+        ratio = float(sys.argv[3])
+        location = sys.argv[4].replace("\"", "").replace("\'", "")
+
     current_path = os.path.dirname(os.path.realpath(__file__))
     with open(os.path.join(file_path)) as f:
         tokens = f.read().split('\n')
@@ -82,6 +106,7 @@ def main():
                 locations.append(token)
 
     unique_locations = get_unique_locations(locations)
+    # if 
     augmented_data = data_augmentation(tokens, location_indices, \
         unique_locations, growth_rate)
 

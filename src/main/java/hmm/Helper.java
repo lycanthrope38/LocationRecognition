@@ -50,10 +50,10 @@ public class Helper {
                 new FileInputStream(trainingFilename), "UTF-8")), Pattern.compile("^\\s*$"), true));
 
         HMM hmm = new HMM(pipe, null);
-        hmm.addStatesForLabelsConnectedAsIn(trainingInstances);
-//        hmm.addStatesForBiLabelsConnectedAsIn(trainingInstances);
+//        hmm.addStatesForLabelsConnectedAsIn(trainingInstances);
+        hmm.addStatesForBiLabelsConnectedAsIn(trainingInstances);
         HMMTrainerByLikelihood trainer = new HMMTrainerByLikelihood(hmm);
-        trainer.train(trainingInstances, 10);
+        trainer.train(trainingInstances, 100);
 
         return hmm;
     }
