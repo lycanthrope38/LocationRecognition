@@ -3342,7 +3342,7 @@ vui O
 chơi O
 giải O
 trí O
-Vinpearl O
+Vinpearl B-LOC
 nằm O
 trên O
 đảo O
@@ -4377,7 +4377,7 @@ kế O
 tài O
 hoa O
 của O
-Vinpearl O
+Vinpearl B-LOC
 đã O
 tạo O
 nên O
