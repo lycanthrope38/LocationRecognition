@@ -5,7 +5,7 @@ import java.io.*;
 public class Main {
     public static void main(String[] args) {
         String docFile = "trainDoc.txt";
-        String trainData = "train.txt";
+        String trainData = "train_old.txt";
         BufferedReader br = null;
         BufferedWriter bw = null;
         try {
